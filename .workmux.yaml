@@ -1,0 +1,6 @@
+# workmux project configuration
+# For global settings, edit ~/.config/workmux/config.yaml
+# All options below are commented out - uncomment to override defaults.
+
+post_create:
+  - pnpm install
