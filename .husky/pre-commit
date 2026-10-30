@@ -1,0 +1,12 @@
+# Husky replaces the global hooks (core.hooksPath), so run their secret scan here too
+if command -v gitleaks >/dev/null; then
+  if ! gitleaks git --pre-commit --staged --redact --verbose --no-banner --log-level warn; then
+    echo "gitleaks: secrets found in the staged changes, commit blocked." >&2
+    echo "False positive? Add its fingerprint to .gitleaksignore, or commit with --no-verify." >&2
+    exit 1
+  fi
+else
+  echo "warning: gitleaks is not installed, skipping the secret scan" >&2
+fi
+
+pnpm exec lint-staged

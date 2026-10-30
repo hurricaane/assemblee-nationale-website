@@ -4,3 +4,7 @@
 
 post_create:
   - pnpm install
+
+files:
+  copy:
+    - .env

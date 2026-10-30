@@ -1,2 +1,21 @@
+minimumReleaseAgeExcludePrune: true
+
+trustPolicy: no-downgrade
+trustPolicyExclude:
+  # Published in 2023, before npm provenance; Babel still needs semver 6
+  - semver@6.3.1
+
+shellEmulator: true
+
 allowBuilds:
   esbuild: true
+  unrs-resolver: true
+  vue-demi: false
+
+permissions:
+  "@nuxtjs/seo":
+    skills: true
+
+skills:
+  dirs:
+    - .claude/skills
