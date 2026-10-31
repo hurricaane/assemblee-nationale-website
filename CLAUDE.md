@@ -63,6 +63,10 @@ pnpm lint:fix     # ESLint auto-fix
 
 Pre-commit hook (husky, `.husky/pre-commit`): gitleaks secret scan on staged changes, then lint-staged runs `eslint --fix` on staged files.
 
+## Tool Versions (mise)
+
+`mise.toml` pins Node (major `26`) and pnpm (`12.16.1`). The pnpm version is also in `package.json` `packageManager` (which needs an exact version): update both together.
+
 ## Git Workflow
 
 **Never commit or stage changes.** The user commits themselves, with an AI commit script in their lazygit configuration. Leave all changes uncommitted; read-only git commands (`status`, `diff`, `log`) are fine.
@@ -81,6 +85,8 @@ All env vars are validated at startup via a Zod schema in `shared/lib/env.ts`. T
 
 - **Never access `process.env` directly** — the `node/no-process-env` ESLint rule enforces this. Add new vars to the schema in `shared/lib/env.ts` and to `.env.example`, then import the validated object where needed.
 - `shared/lib/env.ts` is **server-only**: import it from `nuxt.config.ts` and `server/`, never from `app/`. Values the browser needs go through `runtimeConfig.public`.
+- App env vars live in `.env` (gitignored, template in `.env.example`). Nuxt loads it; don't also load it into the shell (e.g. mise `_.file`): shell vars take precedence over `.env`, so stale values would win silently.
+- Secrets for tooling that the app must not read (e.g. `PR_AGENT_API_KEY`) go in `mise.local.toml` (gitignored), never in `.env`, which Nuxt loads into the app process.
 
 ### TypeScript (Non-obvious)
 

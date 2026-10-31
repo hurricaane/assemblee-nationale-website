@@ -3,6 +3,7 @@
 # All options below are commented out - uncomment to override defaults.
 
 post_create:
+  - mise install
   - pnpm install
   - graphify update .
 
@@ -10,3 +11,4 @@ files:
   copy:
     - .env
     - graphify-out
+    - mise.local.toml

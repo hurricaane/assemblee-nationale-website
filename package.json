@@ -2,6 +2,7 @@
   "name": "assemblee-nationale-website",
   "type": "module",
   "private": true,
+  "packageManager": "pnpm@12.16.1",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",

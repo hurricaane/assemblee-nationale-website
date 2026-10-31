@@ -23,5 +23,8 @@ logs
 .env.*
 !.env.example
 
+# custom mise setup for secrets
+mise.local.toml
+
 # graphify knowledge graph (per worktree, rebuilt locally)
 graphify-out/
