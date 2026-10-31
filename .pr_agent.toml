@@ -1,0 +1,5 @@
+[config]
+model = "moonshot/kimi-k3.1-pro"
+fallback_models = [ "moonshot/kimi-k3" ]
+max_model_tokens = 128000
+repo_context_files = [ "CLAUDE.md" ]

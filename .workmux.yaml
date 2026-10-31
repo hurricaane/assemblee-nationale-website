@@ -4,7 +4,9 @@
 
 post_create:
   - pnpm install
+  - graphify update .
 
 files:
   copy:
     - .env
+    - graphify-out
