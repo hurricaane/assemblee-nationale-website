@@ -7,4 +7,7 @@ max_model_tokens = 128000
 custom_model_max_tokens = 1000000
 # Moonshot rejects any other value for kimi-k3.1-pro ("only 1 is allowed for this model")
 temperature = 1
+# Default 120 s is too short for a reasoning model on a large diff: the retry then collides with the
+# still-running request, and the Moonshot account allows only one request at a time
+ai_timeout = 600
 repo_context_files = [ "CLAUDE.md" ]
