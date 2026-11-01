@@ -11,6 +11,8 @@ Independent side project that makes the decisions of the Assemblée nationale's 
 - Content is in French, aimed at citizens without legal background: plain language over parliamentary jargon.
 - Accessibility matters (RGAA as the reference): this is civic information meant for everyone. `@nuxt/a11y` runs axe-core checks in dev (results in Nuxt DevTools); fix what it reports.
 
+Design context: [PRODUCT.md](PRODUCT.md) (users, personality, anti-references, principles) and [DESIGN.md](DESIGN.md) (visual system; still a seed, re-run `/impeccable document` once there's code). Read both before any UI work.
+
 Stack: **Nuxt 4**, **Nuxt UI v4**, **TailwindCSS v4**, TypeScript, **motion-v**, **Zod**, **Nuxt SEO**. Package manager: **pnpm**.
 
 ## Documentation Lookup (Do This First)
@@ -59,6 +61,7 @@ pnpm build        # production build
 pnpm preview      # preview production build
 pnpm lint         # ESLint check
 pnpm lint:fix     # ESLint auto-fix
+pnpm test         # Vitest; tests live in test/unit/ (plain Node), following Nuxt's test/unit|nuxt|e2e layout
 ```
 
 Pre-commit hook (husky, `.husky/pre-commit`): gitleaks secret scan on staged changes, then lint-staged runs `eslint --fix` on staged files.

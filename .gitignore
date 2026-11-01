@@ -28,3 +28,10 @@ mise.local.toml
 
 # graphify knowledge graph (per worktree, rebuilt locally)
 graphify-out/
+
+# impeccable design hook: per-developer consent and dedup cache
+.impeccable/config.local.json
+.impeccable/hook.cache.json
+
+# Downloaded open data archives (scripts/import/download.sh)
+.cache/

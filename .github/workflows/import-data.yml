@@ -1,0 +1,54 @@
+name: Import data
+
+# Nightly copy of the Assemblée nationale open data into data/.
+# A commit here triggers the Vercel production build.
+on:
+  schedule:
+    # 04:30 UTC, after the archives' overnight refresh
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: import-data
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  LEGISLATURE: 17
+  # The pre-commit hook (gitleaks + lint-staged) is for people: on ~13k data files it would block the bot commit
+  HUSKY: 0
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7.0.1
+
+      # Node and pnpm versions come from mise.toml
+      - uses: jdx/mise-action@v5.2.5
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Download open data
+        run: scripts/import/download.sh "$LEGISLATURE" ".cache/an/$LEGISLATURE"
+
+      - name: Import
+        run: pnpm import:data --legislature "$LEGISLATURE" --source ".cache/an/$LEGISLATURE" --out data
+
+      - name: Commit changes
+        run: |
+          if [ -z "$(git status --porcelain data/)" ]; then
+            echo "No data changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore(data): import Assemblée nationale open data"
+          # main may have moved during the run; only this bot writes data/, so a rebase cannot conflict there
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push

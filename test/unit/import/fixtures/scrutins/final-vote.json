@@ -1,0 +1,266 @@
+{
+  "scrutin": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "uid": "VTANR5L17V5829",
+    "numero": "5829",
+    "organeRef": "PO838901",
+    "legislature": "17",
+    "sessionRef": "SCR5A2026O1",
+    "seanceRef": "RUANR5L17S2026IDS30403",
+    "dateScrutin": "2026-03-26",
+    "quantiemeJourSeance": "1",
+    "typeVote": {
+      "codeTypeVote": "SPO",
+      "libelleTypeVote": "scrutin public ordinaire",
+      "typeMajorite": "Majorité absolue des suffrages exprimés"
+    },
+    "sort": {
+      "code": "adopté",
+      "libelle": "l'Assemblée nationale a adopté"
+    },
+    "titre": "l'ensemble de la proposition de loi relative aux missions des professionnels de santé, vétérinaires et psychothérapeutes des services d'incendie et de secours (deuxième lecture).",
+    "demandeur": {
+      "texte": "Président du groupe \"Les Démocrates\"",
+      "referenceLegislative": null
+    },
+    "objet": {
+      "libelle": "l'ensemble de la proposition de loi relative aux missions des professionnels de santé, vétérinaires et psychothérapeutes des services d'incendie et de secours (deuxième lecture).",
+      "dossierLegislatif": {
+        "libelle": "Création du cadre d'emploi des personnels de santé des services d’incendie et de secours",
+        "dossierRef": "DLR5L17N51346"
+      },
+      "referenceLegislative": null
+    },
+    "modePublicationDesVotes": "DecompteNominatif",
+    "syntheseVote": {
+      "nombreVotants": "94",
+      "suffragesExprimes": "92",
+      "nbrSuffragesRequis": "47",
+      "annonce": "l'Assemblée nationale a adopté",
+      "decompte": {
+        "nonVotants": "3",
+        "pour": "92",
+        "contre": "0",
+        "abstentions": "2",
+        "nonVotantsVolontaires": "0"
+      }
+    },
+    "ventilationVotes": {
+      "organe": {
+        "organeRef": "PO838901",
+        "groupes": {
+          "groupe": [
+            {
+              "organeRef": "PO845401",
+              "nombreMembresGroupe": "122",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "0",
+                  "pour": "19",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            },
+            {
+              "organeRef": "PO845407",
+              "nombreMembresGroupe": "91",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "2",
+                  "pour": "11",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            },
+            {
+              "organeRef": "PO845413",
+              "nombreMembresGroupe": "71",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "0",
+                  "pour": "16",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            },
+            {
+              "organeRef": "PO845419",
+              "nombreMembresGroupe": "69",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "0",
+                  "pour": "5",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            },
+            {
+              "organeRef": "PO845425",
+              "nombreMembresGroupe": "49",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "1",
+                  "pour": "2",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            },
+            {
+              "organeRef": "PO845439",
+              "nombreMembresGroupe": "38",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "0",
+                  "pour": "5",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            },
+            {
+              "organeRef": "PO845454",
+              "nombreMembresGroupe": "36",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "0",
+                  "pour": "24",
+                  "contre": "0",
+                  "abstentions": "2",
+                  "nonVotantsVolontaires": "2"
+                }
+              }
+            },
+            {
+              "organeRef": "PO845470",
+              "nombreMembresGroupe": "35",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "0",
+                  "pour": "3",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            },
+            {
+              "organeRef": "PO845485",
+              "nombreMembresGroupe": "22",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "0",
+                  "pour": "2",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            },
+            {
+              "organeRef": "PO845514",
+              "nombreMembresGroupe": "17",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "0",
+                  "pour": "1",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            },
+            {
+              "organeRef": "PO872880",
+              "nombreMembresGroupe": "17",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "0",
+                  "pour": "4",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            },
+            {
+              "organeRef": "PO840056",
+              "nombreMembresGroupe": "10",
+              "vote": {
+                "positionMajoritaire": "pour",
+                "decompteVoix": {
+                  "nonVotants": "0",
+                  "pour": "0",
+                  "contre": "0",
+                  "abstentions": "0",
+                  "nonVotantsVolontaires": "0"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "miseAuPoint": {
+      "nonVotants": [
+        null,
+        null
+      ],
+      "pours": {
+        "votant": [
+          {
+            "acteurRef": "PA722374",
+            "mandatRef": "PM843302",
+            "parDelegation": "false",
+            "numPlace": "353"
+          },
+          {
+            "acteurRef": "PA720334",
+            "mandatRef": "PM842996",
+            "parDelegation": "false",
+            "numPlace": "373"
+          }
+        ]
+      },
+      "abstentions": [
+        null,
+        null
+      ],
+      "nonVotantsVolontaires": [
+        null,
+        null
+      ],
+      "contres": null,
+      "dysfonctionnement": {
+        "nonVotants": null,
+        "pour": null,
+        "contre": null,
+        "abstentions": null,
+        "nonVotantsVolontaires": null
+      }
+    },
+    "lieuVote": "Hémicycle"
+  }
+}
