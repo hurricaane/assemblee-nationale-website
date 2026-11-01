@@ -2,4 +2,9 @@
 model = "moonshot/kimi-k3.1-pro"
 fallback_models = [ "moonshot/kimi-k3" ]
 max_model_tokens = 128000
+# PR-Agent lists Kimi as "kimi-k3.1-pro", not under the "moonshot/" prefix the key needs: give it the size (1M, per PR-Agent's own table).
+# max_model_tokens above still caps what is actually sent.
+custom_model_max_tokens = 1000000
+# Moonshot rejects any other value for kimi-k3.1-pro ("only 1 is allowed for this model")
+temperature = 1
 repo_context_files = [ "CLAUDE.md" ]
