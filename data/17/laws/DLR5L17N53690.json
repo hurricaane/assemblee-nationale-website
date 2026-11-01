@@ -1,0 +1,267 @@
+{
+  "uid": "DLR5L17N53690",
+  "legislature": 17,
+  "title": "Proposition de loi visant à permettre le remboursement des honoraires d'expert-comptable aux candidats",
+  "procedure": {
+    "code": "2",
+    "label": "Proposition de loi ordinaire"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L17-SN1-53690",
+      "code": "SN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230194DI",
+      "code": "SN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-01-30",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S479B0328"
+      ]
+    },
+    {
+      "uid": "L17-VD230213",
+      "code": "SN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2026-02-02",
+      "bodyId": "PO873634",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-SN1-COM-53690",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230195CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211495",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230195CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-01-30",
+      "bodyId": "PO211495",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230500",
+      "code": "SN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": null,
+      "bodyId": "PO211495",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230501",
+      "code": "SN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-02-11",
+      "bodyId": "PO211495",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S479B0381"
+      ]
+    },
+    {
+      "uid": "L17-SN1-DEBATS-53690",
+      "code": "SN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230660DEC",
+      "code": "SN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-02-19",
+      "bodyId": "PO78718",
+      "outcome": "adoptée",
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S479BTA0066"
+      ]
+    },
+    {
+      "uid": "L17-AN1-53690",
+      "code": "AN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230678DIN",
+      "code": "AN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2026-02-19",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L17B2515"
+      ]
+    },
+    {
+      "uid": "L17-AN1-COM-53690",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230679CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230679CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-02-19",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230812",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-02-18",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230836R37052",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-03-23",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230993",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-03-23",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B2576"
+      ]
+    },
+    {
+      "uid": "L17-AN1-DEBATS-53690",
+      "code": "AN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230744S52260",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-03-30",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231095DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-03-30",
+      "bodyId": "PO838901",
+      "outcome": "adoptée sans modification",
+      "voteUids": [
+        "VTANR5L17V5849"
+      ],
+      "textRefs": [
+        "PIONANR5L17BTA0258",
+        "PIONANR5L17TAP0258"
+      ]
+    },
+    {
+      "uid": "L17-PROM-53690",
+      "code": "PROM",
+      "label": "Promulgation de la loi",
+      "date": null,
+      "bodyId": "PO717136",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231314PL",
+      "code": "PROM-PUB",
+      "label": "Promulgation d'une loi",
+      "date": "2026-04-07",
+      "bodyId": "PO717136",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V5848",
+    "VTANR5L17V5849"
+  ],
+  "promulgation": {
+    "lawNumber": "2026-249",
+    "date": "2026-04-07",
+    "legifranceUrl": "http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=INTX2603180L"
+  },
+  "constitutionalCouncil": null
+}

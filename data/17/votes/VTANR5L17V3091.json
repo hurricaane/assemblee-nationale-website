@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V3091",
+  "number": 3091,
+  "date": "2025-10-25",
+  "title": "l'amendement n° 892 de M. Lottiaux après l'article 2 du projet de loi de finances pour 2026 (première lecture).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 111,
+    "contre": 142,
+    "abstentions": 28,
+    "nonVotants": 15,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 9,
+      "position": "contre",
+      "tally": {
+        "pour": 1,
+        "contre": 2,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "pour",
+      "tally": {
+        "pour": 76,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 92,
+      "position": "contre",
+      "tally": {
+        "pour": 2,
+        "contre": 40,
+        "abstentions": 0,
+        "nonVotants": 7,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 2,
+        "abstentions": 20,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 20
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 69,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 50,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 50,
+      "position": "pour",
+      "tally": {
+        "pour": 27,
+        "contre": 1,
+        "abstentions": 1,
+        "nonVotants": 3,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 18,
+        "abstentions": 5,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 5
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 18,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "contre",
+      "tally": {
+        "pour": 1,
+        "contre": 7,
+        "abstentions": 0,
+        "nonVotants": 2,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 22,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 3,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 16,
+      "position": "pour",
+      "tally": {
+        "pour": 4,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": null
+}

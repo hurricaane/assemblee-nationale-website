@@ -1,0 +1,329 @@
+{
+  "uid": "DLR5L14N35291",
+  "legislature": 14,
+  "title": "Recomposition de la carte intercommunale",
+  "procedure": {
+    "code": "2",
+    "label": "Proposition de loi ordinaire"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L14-SN1-35291",
+      "code": "SN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L14-VD179575DI",
+      "code": "SN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2016-05-25",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S259B0632"
+      ]
+    },
+    {
+      "uid": "L14-SN1-COM-35291",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L14-VD179576CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211495",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L14-VD179576CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2016-05-25",
+      "bodyId": "PO211495",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L14-VD179775",
+      "code": "SN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": null,
+      "bodyId": "PO211495",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L14-VD179776",
+      "code": "SN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2016-10-19",
+      "bodyId": "PO211495",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S279B0053"
+      ]
+    },
+    {
+      "uid": "L14-SN1-DEBATS-35291",
+      "code": "SN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L14-VD179577S34333",
+      "code": "SN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2016-10-26",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L14-VD179864DEC",
+      "code": "SN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2016-10-26",
+      "bodyId": "PO78718",
+      "outcome": "adoptée",
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S279BTA0007"
+      ]
+    },
+    {
+      "uid": "L14-AN1-35291",
+      "code": "AN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO644420",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L14-VD179868DIN",
+      "code": "AN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2016-10-27",
+      "bodyId": "PO644420",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L14B4174"
+      ]
+    },
+    {
+      "uid": "L14-AN1-COM-35291",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO644420",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L14-VD179869CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L14-VD179869CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2016-10-27",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-AN1-35291",
+      "code": "AN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD182123DIN",
+      "code": "AN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2017-07-06",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L15B0081"
+      ]
+    },
+    {
+      "uid": "L15-AN1-COM-35291",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD182124CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD182124CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2017-07-06",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-AN1-35291",
+      "code": "AN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO791932",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD208240DIN",
+      "code": "AN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2022-07-11",
+      "bodyId": "PO791932",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L16B0072"
+      ]
+    },
+    {
+      "uid": "L16-AN1-COM-35291",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO791932",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD208241CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD208241CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2022-07-11",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN1-35291",
+      "code": "AN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD220356DIN",
+      "code": "AN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2024-07-23",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L17B0042"
+      ]
+    },
+    {
+      "uid": "L17-AN1-COM-35291",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD220357CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD220357CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2024-07-23",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

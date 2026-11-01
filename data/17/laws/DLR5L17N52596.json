@@ -1,0 +1,113 @@
+{
+  "uid": "DLR5L17N52596",
+  "legislature": 17,
+  "title": "Projet de loi relatif à la régulation de l'enseignement supérieur privé",
+  "procedure": {
+    "code": "1",
+    "label": "Projet de loi ordinaire"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L17-AN1-52596",
+      "code": "AN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD227475DI",
+      "code": "AN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2025-07-30",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17B1762"
+      ]
+    },
+    {
+      "uid": "L17-VD227475ETI",
+      "code": "AN1-ETI",
+      "label": "Etude d'impact",
+      "date": "2025-07-30",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "ETDIANR5L17B1762"
+      ]
+    },
+    {
+      "uid": "L17-VD227475AVCE",
+      "code": "AN1-AVCE",
+      "label": "Avis du Conseil d'Etat",
+      "date": "2025-07-30",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "AVCEANR5L17B1762"
+      ]
+    },
+    {
+      "uid": "L17-VD227477",
+      "code": "AN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2026-01-28",
+      "bodyId": "PO873634",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN1-COM-52596",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD227476CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD227476CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2025-07-30",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230106",
+      "code": "AN1-RTRINI",
+      "label": "Retrait d'une initiative",
+      "date": "2026-01-28",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17B1762"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

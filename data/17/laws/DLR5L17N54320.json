@@ -1,0 +1,77 @@
+{
+  "uid": "DLR5L17N54320",
+  "legislature": 17,
+  "title": "Appeler à une action résolue de la France contre le blocus imposé par les Etats-Unis au peuple cubain",
+  "procedure": {
+    "code": "22",
+    "label": "Résolution Article 34-1"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-54320",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231971DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-05-13",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B2799"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-DEBATS-54320",
+      "code": "ANLUNI-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232042S52765",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-06-11",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232042S52775",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-06-11",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232042S52785",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-06-11",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

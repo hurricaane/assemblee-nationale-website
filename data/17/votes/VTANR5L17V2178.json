@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V2178",
+  "number": 2178,
+  "date": "2025-05-28",
+  "title": "le sous-amendement n° 2732 rectifié de Mme Belluco et le sous-amendement identique suivant à l'amendement n° 2599 rectifié du Gouvernement et aux amendements identiques suivants à l’article 15 ter (examen prioritaire) du projet de loi de simplification de la vie économique (première lecture).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 35,
+    "contre": 91,
+    "abstentions": 30,
+    "nonVotants": 2,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 11,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 56,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 94,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 16,
+        "abstentions": 0,
+        "nonVotants": 2,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 27,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 27
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 66,
+      "position": "pour",
+      "tally": {
+        "pour": 17,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 49,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 6,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 17,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 5,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 33,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 3,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO847173",
+      "members": 16,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 4,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": null
+}

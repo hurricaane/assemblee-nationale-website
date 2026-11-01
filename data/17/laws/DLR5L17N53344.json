@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N53344",
+  "legislature": 17,
+  "title": "Encourager une évolution réglementaire sur l'origine des produits pour valoriser les filières françaises et européennes et protéger le consommateur",
+  "procedure": {
+    "code": "22",
+    "label": "Résolution Article 34-1"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-53344",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229283DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2025-12-10",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B2232"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

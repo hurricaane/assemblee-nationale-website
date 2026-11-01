@@ -1,0 +1,137 @@
+{
+  "uid": "DLR5L17N54901",
+  "legislature": 17,
+  "title": "Créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap",
+  "procedure": {
+    "code": "2",
+    "label": "Proposition de loi ordinaire"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L17-AN1-54901",
+      "code": "AN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233721DI",
+      "code": "AN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-09-15",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L17B3171"
+      ]
+    },
+    {
+      "uid": "L17-AN1-COM-54901",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233722CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233722CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-09-15",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234081",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-10-07",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234323R37938",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-10-28",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234432",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-10-21",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3382"
+      ]
+    },
+    {
+      "uid": "L17-AN1-DEBATS-54901",
+      "code": "AN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233940S53354",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-10-29",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234618DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-10-29",
+      "bodyId": "PO838901",
+      "outcome": "adoptée",
+      "voteUids": [
+        "VTANR5L17V9203"
+      ],
+      "textRefs": [
+        "PIONANR5L17BTA0360",
+        "PIONANR5L17TAP0360"
+      ]
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V9202",
+    "VTANR5L17V9203"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

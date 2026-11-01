@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N52244",
+  "legislature": 17,
+  "title": "Les protéines et l'alimentation",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-52244",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD226392",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-06-05",
+      "bodyId": "PO273589",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B1531"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

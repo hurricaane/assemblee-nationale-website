@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N50965",
+  "legislature": 17,
+  "title": "Le massacre de Thiaroye du 1er décembre 1944",
+  "procedure": {
+    "code": "8",
+    "label": "Résolution"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-50965",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222505DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2024-11-28",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B0640"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-COM-50965",
+      "code": "ANLUNI-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222506CF",
+      "code": "ANLUNI-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59046",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222506CFS",
+      "code": "ANLUNI-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2024-11-28",
+      "bodyId": "PO59046",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

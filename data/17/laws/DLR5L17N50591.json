@@ -1,0 +1,79 @@
+{
+  "uid": "DLR5L17N50591",
+  "legislature": 17,
+  "title": "Les dissimulations budgétaires ayant conduit à la dérive des finances publiques",
+  "procedure": {
+    "code": "8",
+    "label": "Résolution"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-50591",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD221262DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2024-10-11",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B0328"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-COM-50591",
+      "code": "ANLUNI-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD221263CF",
+      "code": "ANLUNI-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD221263CFS",
+      "code": "ANLUNI-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2024-10-11",
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD221695",
+      "code": "ANLUNI-RTRINI",
+      "label": "Retrait d'une initiative",
+      "date": "2024-10-17",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B0328"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

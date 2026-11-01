@@ -1,0 +1,225 @@
+{
+  "uid": "DLR5L16N49654",
+  "legislature": 16,
+  "title": "Proposition de loi visant à encadrer les pratiques médicales mises en œuvre dans la prise en charge des mineurs en questionnement de genre",
+  "procedure": {
+    "code": "2",
+    "label": "Proposition de loi ordinaire"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L16-SN1-49654",
+      "code": "SN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD218672DI",
+      "code": "SN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2024-03-19",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S419B0435"
+      ]
+    },
+    {
+      "uid": "L16-SN1-COM-49654",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD218673CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211493",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD218673CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2024-03-19",
+      "bodyId": "PO211493",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD219753",
+      "code": "SN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": null,
+      "bodyId": "PO211493",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD219754",
+      "code": "SN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2024-05-22",
+      "bodyId": "PO211493",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S419B0622"
+      ]
+    },
+    {
+      "uid": "L16-SN1-DEBATS-49654",
+      "code": "SN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD219893S48000",
+      "code": "SN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2024-05-28",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD219894DEC",
+      "code": "SN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2024-05-28",
+      "bodyId": "PO78718",
+      "outcome": "adoptée",
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S419BTA0138"
+      ]
+    },
+    {
+      "uid": "L16-AN1-49654",
+      "code": "AN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO791932",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD219918DIN",
+      "code": "AN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2024-05-29",
+      "bodyId": "PO791932",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L16B2689"
+      ]
+    },
+    {
+      "uid": "L16-AN1-COM-49654",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO791932",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD219919CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L16-VD219919CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2024-05-29",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN1-49654",
+      "code": "AN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD220566DIN",
+      "code": "AN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2024-07-23",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L17B0147"
+      ]
+    },
+    {
+      "uid": "L17-AN1-COM-49654",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD220567CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD220567CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2024-07-23",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

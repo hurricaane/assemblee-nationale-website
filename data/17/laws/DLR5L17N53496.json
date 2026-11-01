@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N53496",
+  "legislature": 17,
+  "title": "Projet de loi ratifiant l’ordonnance n°2025-1073 du 10 novembre 2025 portant extension et adaptation des dispositions de la loi n° 2025-796 du 11 août 2025 visant à faciliter le maintien en rétention des personnes condamnées pour des faits d’une particulière gravité et présentant de forts risques de récidive à Saint-Barthélemy, à Saint-Martin, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie",
+  "procedure": {
+    "code": "1",
+    "label": "Projet de loi ordinaire"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L17-SN1-53496",
+      "code": "SN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229730DI",
+      "code": "SN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-01-05",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLSNR5S479B0254"
+      ]
+    },
+    {
+      "uid": "L17-SN1-COM-53496",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229731CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211495",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229731CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-01-05",
+      "bodyId": "PO211495",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

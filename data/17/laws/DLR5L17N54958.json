@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N54958",
+  "legislature": 17,
+  "title": "Introduire la Convention internationale des droits de l’enfant du 20 novembre 1989 dans la Constitution",
+  "procedure": {
+    "code": "7",
+    "label": "Projet ou proposition de loi constitutionnelle"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L17-AN1-54958",
+      "code": "AN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233930DI",
+      "code": "AN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-10-05",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L17B3214"
+      ]
+    },
+    {
+      "uid": "L17-AN1-COM-54958",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233931CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233931CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-10-05",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

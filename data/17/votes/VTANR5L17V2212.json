@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V2212",
+  "number": 2212,
+  "date": "2025-06-02",
+  "title": "l'amendement n° 15 de Mme Simonnet après l'article premier de la proposition de loi visant à garantir un cadre fiscal stable, juste et lisible pour nos micro-entrepreneurs et nos petites entreprises (première lecture).",
+  "type": "SPO",
+  "result": "adopté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 101,
+    "contre": 75,
+    "abstentions": 10,
+    "nonVotants": 1,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 11,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "pour",
+      "tally": {
+        "pour": 36,
+        "contre": 0,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 94,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 44,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "pour",
+      "tally": {
+        "pour": 32,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 66,
+      "position": "pour",
+      "tally": {
+        "pour": 15,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 49,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 3,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 13,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 8,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 33,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 13,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 6,
+        "abstentions": 3,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 3
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO847173",
+      "members": 16,
+      "position": "pour",
+      "tally": {
+        "pour": 4,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    }
+  ],
+  "lawUid": null
+}

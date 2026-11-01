@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V4757",
+  "number": 4757,
+  "date": "2025-12-16",
+  "title": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de financement de la sécurité sociale pour 2026 (lecture définitive).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 171,
+    "contre": 285,
+    "abstentions": 16,
+    "nonVotants": 0,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 9,
+      "position": "contre",
+      "tally": {
+        "pour": 2,
+        "contre": 6,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "pour",
+      "tally": {
+        "pour": 89,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 91,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 89,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "pour",
+      "tally": {
+        "pour": 58,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 69,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 65,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 49,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 40,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 4,
+        "contre": 2,
+        "abstentions": 15,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 15
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 35,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 30,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 22,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 16,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 6,
+        "contre": 2,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 16,
+      "position": "pour",
+      "tally": {
+        "pour": 12,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": null
+}

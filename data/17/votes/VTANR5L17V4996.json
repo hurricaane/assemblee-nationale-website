@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V4996",
+  "number": 4996,
+  "date": "2026-01-14",
+  "title": "l'amendement n° 1191 de M. Le Fur et l'amendement identique suivant de suppression de l'article 27 sexies (examen prioritaire) du projet de loi de finances pour 2026 (nouvelle lecture).",
+  "type": "SPO",
+  "result": "adopté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 127,
+    "contre": 55,
+    "abstentions": 1,
+    "nonVotants": 1,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 10,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 2,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 122,
+      "position": "pour",
+      "tally": {
+        "pour": 63,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 91,
+      "position": "pour",
+      "tally": {
+        "pour": 27,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 18,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 69,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 20,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 49,
+      "position": "pour",
+      "tally": {
+        "pour": 8,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 8,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "pour",
+      "tally": {
+        "pour": 9,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "pour",
+      "tally": {
+        "pour": 13,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 22,
+      "position": "contre",
+      "tally": {
+        "pour": 1,
+        "contre": 4,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 2,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 16,
+      "position": "pour",
+      "tally": {
+        "pour": 6,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    }
+  ],
+  "lawUid": null
+}

@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V8748",
+  "number": 8748,
+  "date": "2026-10-15",
+  "title": "le sous-amendement n° 3984 de M. Juvin à l'amendement n° 3185 de M. Bruneau après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 28,
+    "contre": 45,
+    "abstentions": 56,
+    "nonVotants": 2,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 11,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 121,
+      "position": "abstention",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 45,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 45
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 90,
+      "position": "pour",
+      "tally": {
+        "pour": 16,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 70,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 17,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 68,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 19,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 47,
+      "position": "pour",
+      "tally": {
+        "pour": 5,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 2,
+        "abstentions": 3,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 3
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 37,
+      "position": "contre",
+      "tally": {
+        "pour": 2,
+        "contre": 7,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 35,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "pour",
+      "tally": {
+        "pour": 3,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 17,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 6,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 6
+      }
+    }
+  ],
+  "lawUid": "DLR5L17N54629"
+}

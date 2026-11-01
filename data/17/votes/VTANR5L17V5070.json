@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V5070",
+  "number": 5070,
+  "date": "2026-01-15",
+  "title": "le sous-amendement n° 3586 de M. Mandon à l'amendement n° 3196 de M. Cosson à l'article 12 octies du projet de loi de finances pour 2026 (nouvelle lecture).",
+  "type": "SPO",
+  "result": "adopté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 91,
+    "contre": 12,
+    "abstentions": 7,
+    "nonVotants": 2,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 10,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 122,
+      "position": "pour",
+      "tally": {
+        "pour": 46,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 91,
+      "position": "pour",
+      "tally": {
+        "pour": 23,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 4,
+        "abstentions": 6,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 6
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 69,
+      "position": "pour",
+      "tally": {
+        "pour": 7,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 49,
+      "position": "contre",
+      "tally": {
+        "pour": 1,
+        "contre": 7,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 4,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "pour",
+      "tally": {
+        "pour": 7,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "pour",
+      "tally": {
+        "pour": 2,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 22,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 16,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": null
+}

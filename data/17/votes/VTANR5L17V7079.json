@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V7079",
+  "number": 7079,
+  "date": "2026-05-29",
+  "title": "l'amendement n° 1617 du Gouvernement à l'article 4 du projet de loi d'urgence pour la protection et la souveraineté agricoles (première lecture).",
+  "type": "SPO",
+  "result": "adopté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 91,
+    "contre": 18,
+    "abstentions": 0,
+    "nonVotants": 1,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 11,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 122,
+      "position": "pour",
+      "tally": {
+        "pour": 39,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 91,
+      "position": "pour",
+      "tally": {
+        "pour": 16,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 18,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 68,
+      "position": "pour",
+      "tally": {
+        "pour": 4,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 48,
+      "position": "pour",
+      "tally": {
+        "pour": 10,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 6,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 37,
+      "position": "pour",
+      "tally": {
+        "pour": 9,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "pour",
+      "tally": {
+        "pour": 4,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "pour",
+      "tally": {
+        "pour": 2,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": "DLR5L17N54085"
+}

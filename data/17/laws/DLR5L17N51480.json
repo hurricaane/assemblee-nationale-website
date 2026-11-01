@@ -1,0 +1,69 @@
+{
+  "uid": "DLR5L17N51480",
+  "legislature": 17,
+  "title": "Mettre fin à la culpabilisation des victimes de violences physiques et sexuelles",
+  "procedure": {
+    "code": "22",
+    "label": "Résolution Article 34-1"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-51480",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223727DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2025-02-10",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B0924"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-DEBATS-51480",
+      "code": "ANLUNI-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224302S49311",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2025-04-01",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224988DEC",
+      "code": "ANLUNI-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2025-04-01",
+      "bodyId": "PO838901",
+      "outcome": "adoptée",
+      "voteUids": [],
+      "textRefs": [
+        "RIONANR5L17BTA0085"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

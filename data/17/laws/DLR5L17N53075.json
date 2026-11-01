@@ -1,0 +1,307 @@
+{
+  "uid": "DLR5L17N53075",
+  "legislature": 17,
+  "title": "Projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République de Moldova relatif à la coopération dans le domaine de la défense",
+  "procedure": {
+    "code": "6",
+    "label": "Projet de ratification des traités et conventions"
+  },
+  "kind": "treaty",
+  "acts": [
+    {
+      "uid": "L17-AN1-53075",
+      "code": "AN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD228501DI",
+      "code": "AN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2025-10-29",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17B2050"
+      ]
+    },
+    {
+      "uid": "L17-VD228501ETI",
+      "code": "AN1-ETI",
+      "label": "Etude d'impact",
+      "date": "2025-10-29",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "ETDIANR5L17B2050"
+      ]
+    },
+    {
+      "uid": "L17-VD228501ACIN",
+      "code": "AN1-ACIN",
+      "label": "Accord international",
+      "date": "2025-10-29",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "ACINANR5L17B2050"
+      ]
+    },
+    {
+      "uid": "L17-VD233775",
+      "code": "AN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2025-10-29",
+      "bodyId": "PO873634",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN1-COM-53075",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD228502CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD228502CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2025-10-29",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230757",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-02-25",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229320R37053",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-02-25",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229320R37173",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-03-25",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229320R37172",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-04-15",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229320R37209",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-05-06",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231813",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-05-06",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B2759"
+      ]
+    },
+    {
+      "uid": "L17-VD229536CA",
+      "code": "AN1-COM-AVIS",
+      "label": "Travaux d'une commission saisie pour avis",
+      "date": null,
+      "bodyId": "PO59046",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229536CAS",
+      "code": "AN1-COM-AVIS-SAISIE",
+      "label": "Saisine pour avis d'une commission",
+      "date": "2025-12-17",
+      "bodyId": "PO59046",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229854",
+      "code": "AN1-COM-AVIS-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-01-14",
+      "bodyId": "PO59046",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229320R36625",
+      "code": "AN1-COM-AVIS-REUNION",
+      "label": "Réunion de commission",
+      "date": "2025-12-17",
+      "bodyId": "PO59046",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229320R36676",
+      "code": "AN1-COM-AVIS-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-01-14",
+      "bodyId": "PO59046",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229320R37165",
+      "code": "AN1-COM-AVIS-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-04-08",
+      "bodyId": "PO59046",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN1-DEBATS-53075",
+      "code": "AN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233764S53259",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-10-05",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233952DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-10-05",
+      "bodyId": "PO838901",
+      "outcome": "adopté",
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17BTA0345"
+      ]
+    },
+    {
+      "uid": "L17-SN1-53075",
+      "code": "SN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233967DIN",
+      "code": "SN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2026-10-05",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLSNR5S499B0006"
+      ]
+    },
+    {
+      "uid": "L17-SN1-COM-53075",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233968CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211491",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233968CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-10-05",
+      "bodyId": "PO211491",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

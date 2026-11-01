@@ -1,0 +1,161 @@
+{
+  "uid": "DLR5L17N51787",
+  "legislature": 17,
+  "title": "Soutenir la souveraineté et l’intégrité territoriale de la République démocratique du Congo et condamner le soutien du Rwanda au Mouvement du 23 mars",
+  "procedure": {
+    "code": "8",
+    "label": "Résolution"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-51787",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224849DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2025-03-28",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B1195"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-COM-51787",
+      "code": "ANLUNI-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224850RP",
+      "code": "ANLUNI-COM-CAE",
+      "label": "Renvoi préalable à la CAE",
+      "date": null,
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224850RPS",
+      "code": "ANLUNI-COM-CAE-SAISIE",
+      "label": "Renvoi préalable",
+      "date": "2025-03-28",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225169",
+      "code": "ANLUNI-COM-CAE-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2025-04-09",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225100R35544",
+      "code": "ANLUNI-COM-CAE-REUNION",
+      "label": "Réunion de commission",
+      "date": "2025-04-09",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225100R35557",
+      "code": "ANLUNI-COM-CAE-REUNION",
+      "label": "Réunion de commission",
+      "date": "2025-05-21",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225988",
+      "code": "ANLUNI-COM-CAE-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-05-21",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B1448"
+      ]
+    },
+    {
+      "uid": "L17-VD225987CF",
+      "code": "ANLUNI-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225987CFS",
+      "code": "ANLUNI-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2025-05-21",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225100R35876",
+      "code": "ANLUNI-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2025-06-11",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-ANLUNI-DEBATS-51787",
+      "code": "ANLUNI-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD227053DEC",
+      "code": "ANLUNI-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2025-07-07",
+      "bodyId": "PO838901",
+      "outcome": "considérée comme définitive en application de l'article 151-7 du Règlement",
+      "voteUids": [],
+      "textRefs": [
+        "RIONANR5L17BTA0159"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

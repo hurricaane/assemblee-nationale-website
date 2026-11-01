@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N51422",
+  "legislature": 17,
+  "title": "Présenter une réforme globale et ambitieuse de l'organisation des études médicales et paramédicales afin de lutter efficacement contre les déserts médicaux",
+  "procedure": {
+    "code": "22",
+    "label": "Résolution Article 34-1"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-51422",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223519DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2025-02-03",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B0874"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

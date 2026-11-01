@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V8612",
+  "number": 8612,
+  "date": "2026-10-08",
+  "title": "la proposition de résolution invitant le Gouvernement à engager les démarches en vue de soutenir l'entrée au Panthéon d'Olympe de Gouges, de l'abbé Charles-Michel de l'Epée et de Zéna M'Déré (article 34-1 de la Constitution).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 133,
+    "contre": 158,
+    "abstentions": 3,
+    "nonVotants": 2,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 11,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 121,
+      "position": "pour",
+      "tally": {
+        "pour": 115,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 90,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 28,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 70,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 54,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 68,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 33,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 47,
+      "position": "pour",
+      "tally": {
+        "pour": 3,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 23,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 37,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 4,
+        "abstentions": 1,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 35,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 2,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 4,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 8,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 15,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": "DLR5L17N54916"
+}

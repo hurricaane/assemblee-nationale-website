@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V852",
+  "number": 852,
+  "date": "2025-02-20",
+  "title": "l'ensemble de la proposition de loi visant à protéger la population des risques liés aux substances perfluoroalkylées et polyfluoroalkylées (deuxième lecture).",
+  "type": "SPO",
+  "result": "adopté",
+  "isFinalVote": true,
+  "tally": {
+    "pour": 231,
+    "contre": 51,
+    "abstentions": 7,
+    "nonVotants": 2,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 11,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 124,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 50,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 94,
+      "position": "pour",
+      "tally": {
+        "pour": 39,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "pour",
+      "tally": {
+        "pour": 45,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 66,
+      "position": "pour",
+      "tally": {
+        "pour": 46,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 47,
+      "position": "pour",
+      "tally": {
+        "pour": 10,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 38,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "pour",
+      "tally": {
+        "pour": 22,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 33,
+      "position": "pour",
+      "tally": {
+        "pour": 20,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "pour",
+      "tally": {
+        "pour": 2,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 8,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO847173",
+      "members": 16,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 7,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 7
+      }
+    }
+  ],
+  "lawUid": "DLR5L16N49455"
+}

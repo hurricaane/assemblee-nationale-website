@@ -1,0 +1,97 @@
+{
+  "uid": "DLR5L17N54659",
+  "legislature": 17,
+  "title": "Pour une réponse diplomatique européenne aux enlèvements internationaux d'enfants",
+  "procedure": {
+    "code": "8",
+    "label": "Résolution"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-54659",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233113DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-07-08",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B3052"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-COM-54659",
+      "code": "ANLUNI-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233114RP",
+      "code": "ANLUNI-COM-CAE",
+      "label": "Renvoi préalable à la CAE",
+      "date": null,
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233114RPS",
+      "code": "ANLUNI-COM-CAE-SAISIE",
+      "label": "Renvoi préalable",
+      "date": "2026-07-08",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234613",
+      "code": "ANLUNI-COM-CAE-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-10-14",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234136R37878",
+      "code": "ANLUNI-COM-CAE-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-10-14",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234136R37932",
+      "code": "ANLUNI-COM-CAE-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-10-14",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V2295",
+  "number": 2295,
+  "date": "2025-06-13",
+  "title": "l'amendement de suppression n° 1621 de Mme Nosbé à l'article 23 (examen prioritaire) du projet de loi de simplification de la vie économique (première lecture).",
+  "type": "SPO",
+  "result": "adopté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 16,
+    "contre": 10,
+    "abstentions": 21,
+    "nonVotants": 1,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 11,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 11,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 11
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 94,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 6,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "pour",
+      "tally": {
+        "pour": 10,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 66,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 8,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 8
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 49,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 6,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 3,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 33,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO847173",
+      "members": 16,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": null
+}

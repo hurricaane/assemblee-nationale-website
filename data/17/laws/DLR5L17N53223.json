@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N53223",
+  "legislature": 17,
+  "title": "Intégrer pleinement le nickel calédonien dans la stratégie européenne des matières premières critiques et de souveraineté industrielle",
+  "procedure": {
+    "code": "8",
+    "label": "Résolution"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-53223",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229002DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2025-11-27",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B2145"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-COM-53223",
+      "code": "ANLUNI-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229003RP",
+      "code": "ANLUNI-COM-CAE",
+      "label": "Renvoi préalable à la CAE",
+      "date": null,
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229003RPS",
+      "code": "ANLUNI-COM-CAE-SAISIE",
+      "label": "Renvoi préalable",
+      "date": "2025-11-27",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

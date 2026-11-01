@@ -1,0 +1,129 @@
+{
+  "uid": "DLR5L17N53816",
+  "legislature": 17,
+  "title": "Promouvoir une pratique de la pêche durable et respectueuse des ressources halieutiques et des océans",
+  "procedure": {
+    "code": "8",
+    "label": "Résolution"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-53816",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230688DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-02-20",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B2517"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-COM-53816",
+      "code": "ANLUNI-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230689RP",
+      "code": "ANLUNI-COM-CAE",
+      "label": "Renvoi préalable à la CAE",
+      "date": null,
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230689RPS",
+      "code": "ANLUNI-COM-CAE-SAISIE",
+      "label": "Renvoi préalable",
+      "date": "2026-02-20",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230774",
+      "code": "ANLUNI-COM-CAE-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-02-25",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230706R37055",
+      "code": "ANLUNI-COM-CAE-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-02-25",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230784",
+      "code": "ANLUNI-COM-CAE-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-02-25",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B2534"
+      ]
+    },
+    {
+      "uid": "L17-VD230788DEC",
+      "code": "ANLUNI-COM-CAE-DEC",
+      "label": "Décision",
+      "date": "2026-02-25",
+      "bodyId": "PO415287",
+      "outcome": "rejet du texte par la commission préalable",
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230788CF",
+      "code": "ANLUNI-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO419610",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230788CFS",
+      "code": "ANLUNI-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-02-25",
+      "bodyId": "PO419610",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

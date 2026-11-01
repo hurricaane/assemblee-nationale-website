@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N55101",
+  "legislature": 17,
+  "title": "L’Union européenne face au défi du financement de la transition énergétique",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-55101",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234271",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-10-14",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B3338"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

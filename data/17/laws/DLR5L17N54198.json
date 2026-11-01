@@ -1,0 +1,129 @@
+{
+  "uid": "DLR5L17N54198",
+  "legislature": 17,
+  "title": "sur les causes et les conséquences de l'augmentation de la pauvreté, notamment pour les travailleurs séniors et les personnes âgées, et les manquements des politiques publiques pour y faire face",
+  "procedure": {
+    "code": "8",
+    "label": "Résolution"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-54198",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231586DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-04-23",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B2696"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-COM-54198",
+      "code": "ANLUNI-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231587CF",
+      "code": "ANLUNI-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231587CFS",
+      "code": "ANLUNI-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-04-23",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231959",
+      "code": "ANLUNI-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-05-13",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231761R37337",
+      "code": "ANLUNI-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-05-13",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231761R37338",
+      "code": "ANLUNI-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-05-13",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231761R37376",
+      "code": "ANLUNI-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-05-13",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231761R37377",
+      "code": "ANLUNI-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-05-13",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231960",
+      "code": "ANLUNI-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-05-13",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B2798"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

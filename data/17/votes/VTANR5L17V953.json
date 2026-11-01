@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V953",
+  "number": 953,
+  "date": "2025-03-11",
+  "title": "l'amendement n° 37 de M. Dufau à l'article 2 de la proposition de loi visant à lutter contre la disparition des terres agricoles et renforcer la régulation des prix du foncier agricole (première lecture).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 57,
+    "contre": 79,
+    "abstentions": 63,
+    "nonVotants": 2,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 11,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 51,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 51
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 94,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 24,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 22,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 66,
+      "position": "pour",
+      "tally": {
+        "pour": 34,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 47,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 9,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 14,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 11,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 33,
+      "position": "abstention",
+      "tally": {
+        "pour": 1,
+        "contre": 10,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "pour",
+      "tally": {
+        "pour": 6,
+        "contre": 3,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO847173",
+      "members": 16,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 8,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 8
+      }
+    }
+  ],
+  "lawUid": null
+}

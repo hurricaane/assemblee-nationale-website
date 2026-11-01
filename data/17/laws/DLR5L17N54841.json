@@ -1,0 +1,73 @@
+{
+  "uid": "DLR5L17N54841",
+  "legislature": 17,
+  "title": "Mobiliser la commande publique au service de l’emploi, de la production et de l’innovation en France",
+  "procedure": {
+    "code": "22",
+    "label": "Résolution Article 34-1"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-54841",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233581DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-09-07",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B3115"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-DEBATS-54841",
+      "code": "ANLUNI-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233607S53201",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-10-08",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234119DEC",
+      "code": "ANLUNI-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-10-08",
+      "bodyId": "PO838901",
+      "outcome": "rejetée",
+      "voteUids": [
+        "VTANR5L17V8610"
+      ],
+      "textRefs": [
+        "PNREANR5L17BTA0349"
+      ]
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V8610"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

@@ -1,0 +1,83 @@
+{
+  "uid": "DLR5L17N54847",
+  "legislature": 17,
+  "title": "Refonder l'espace Schengen en instaurant une double frontière nationale et européenne",
+  "procedure": {
+    "code": "22",
+    "label": "Résolution Article 34-1"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-54847",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233600DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-09-10",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B3119"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-DEBATS-54847",
+      "code": "ANLUNI-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233608S53202",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-10-08",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233608S53211",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-10-08",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234122DEC",
+      "code": "ANLUNI-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-10-08",
+      "bodyId": "PO838901",
+      "outcome": "rejetée",
+      "voteUids": [
+        "VTANR5L17V8611"
+      ],
+      "textRefs": [
+        "PNREANR5L17BTA0350"
+      ]
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V8611"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

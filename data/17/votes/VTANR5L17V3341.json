@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V3341",
+  "number": 3341,
+  "date": "2025-11-03",
+  "title": "l'amendement n° 645 de Mme Pirès Beaune après l'article 3 du projet de loi de finances pour 2026 (première lecture).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 71,
+    "contre": 125,
+    "abstentions": 8,
+    "nonVotants": 15,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 9,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 1,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 71,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 92,
+      "position": "contre",
+      "tally": {
+        "pour": 1,
+        "contre": 26,
+        "abstentions": 0,
+        "nonVotants": 7,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "pour",
+      "tally": {
+        "pour": 33,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 69,
+      "position": "pour",
+      "tally": {
+        "pour": 24,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 50,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 8,
+        "abstentions": 0,
+        "nonVotants": 3,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 10,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "contre",
+      "tally": {
+        "pour": 1,
+        "contre": 11,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 3,
+        "abstentions": 5,
+        "nonVotants": 2,
+        "nonVotantsVolontaires": 5
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 22,
+      "position": "abstention",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 2,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 16,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 5,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": null
+}

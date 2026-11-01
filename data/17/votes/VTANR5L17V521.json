@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V521",
+  "number": 521,
+  "date": "2024-12-16",
+  "title": "l'amendement n° 19 de M. Philippe Brun après l'article premier du projet de loi spéciale prévue par l'article 45 de la loi organique du 1er août 2001 relative aux lois de finances (première lecture).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 40,
+    "contre": 156,
+    "abstentions": 125,
+    "nonVotants": 1,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 10,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 4,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 124,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 3,
+        "abstentions": 101,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 101
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 93,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 63,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 3,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 66,
+      "position": "pour",
+      "tally": {
+        "pour": 31,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 47,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 25,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 8,
+        "contre": 4,
+        "abstentions": 5,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 5
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 23,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 20,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "contre",
+      "tally": {
+        "pour": 1,
+        "contre": 10,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 5,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 5
+      }
+    },
+    {
+      "groupId": "PO847173",
+      "members": 16,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 1,
+        "abstentions": 9,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 9
+      }
+    }
+  ],
+  "lawUid": null
+}

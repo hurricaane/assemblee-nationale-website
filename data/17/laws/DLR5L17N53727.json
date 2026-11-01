@@ -1,0 +1,55 @@
+{
+  "uid": "DLR5L17N53727",
+  "legislature": 17,
+  "title": "mission d'information sur les éco-organismes et les éco-contributions",
+  "procedure": {
+    "code": "10",
+    "label": "Mission d'information"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-53727",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN20-MISINF-53727",
+      "code": "AN20-MISINF",
+      "label": "Mission d'information",
+      "date": null,
+      "bodyId": "PO878513",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230314",
+      "code": "AN20-MISINF-CREA",
+      "label": "Création d'une mission d'information",
+      "date": "2026-02-05",
+      "bodyId": "PO878513",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233410",
+      "code": "AN20-MISINF-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-02-10",
+      "bodyId": "PO878513",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

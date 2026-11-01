@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N53217",
+  "legislature": 17,
+  "title": "tendant à l’inscription des sites industriels ArcelorMittal de Dunkerque et Fos-sur-Mer sur la liste des établissements susceptibles d'ouvrir droit à l'allocation de cessation d'activité anticipée des travailleurs de l'amiante, à la prise de sanctions contre le groupe ArcelorMittal et à la protection des salariés exposés sur ces sites",
+  "procedure": {
+    "code": "22",
+    "label": "Résolution Article 34-1"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-53217",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD228898DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2025-11-24",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B2130"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

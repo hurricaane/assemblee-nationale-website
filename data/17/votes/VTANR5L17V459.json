@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V459",
+  "number": 459,
+  "date": "2024-11-28",
+  "title": "l'amendement n° 879 de Mme Colin-Osterlé avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 95,
+    "contre": 226,
+    "abstentions": 19,
+    "nonVotants": 2,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 9,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 124,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 91,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 94,
+      "position": "pour",
+      "tally": {
+        "pour": 52,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 58,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 66,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 36,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 47,
+      "position": "abstention",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 12,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 12
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 31,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "pour",
+      "tally": {
+        "pour": 20,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "pour",
+      "tally": {
+        "pour": 21,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 1,
+        "abstentions": 3,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 3
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 8,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO847173",
+      "members": 16,
+      "position": "abstention",
+      "tally": {
+        "pour": 1,
+        "contre": 1,
+        "abstentions": 3,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 3
+      }
+    }
+  ],
+  "lawUid": null
+}

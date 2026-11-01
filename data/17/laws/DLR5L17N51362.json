@@ -1,0 +1,427 @@
+{
+  "uid": "DLR5L17N51362",
+  "legislature": 17,
+  "title": "Projet de loi autorisant la ratification de la résolution LP.3(4) portant amendement de l’article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l’immersion de déchets et autres matières",
+  "procedure": {
+    "code": "6",
+    "label": "Projet de ratification des traités et conventions"
+  },
+  "kind": "treaty",
+  "acts": [
+    {
+      "uid": "L17-SN1-51362",
+      "code": "SN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223334DI",
+      "code": "SN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2024-07-03",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLSNR5S419B0715"
+      ]
+    },
+    {
+      "uid": "L17-VD223336",
+      "code": "SN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2024-07-03",
+      "bodyId": "PO833673",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-SN1-COM-51362",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223335CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211491",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223335CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2024-07-03",
+      "bodyId": "PO211491",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223337",
+      "code": "SN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": null,
+      "bodyId": "PO211491",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223338",
+      "code": "SN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-01-22",
+      "bodyId": "PO211491",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S459B0258"
+      ]
+    },
+    {
+      "uid": "L17-SN1-DEBATS-51362",
+      "code": "SN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223808DEC",
+      "code": "SN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2025-02-12",
+      "bodyId": "PO78718",
+      "outcome": "adopté",
+      "voteUids": [],
+      "textRefs": [
+        "PRJLSNR5S459BTA0051"
+      ]
+    },
+    {
+      "uid": "L17-AN1-51362",
+      "code": "AN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223814DIN",
+      "code": "AN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2025-02-13",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17B0942"
+      ]
+    },
+    {
+      "uid": "L17-VD223814ACIN",
+      "code": "AN1-ACIN",
+      "label": "Accord international",
+      "date": "2025-02-13",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "ACINANR5L17B0942"
+      ]
+    },
+    {
+      "uid": "L17-AN1-COM-51362",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223815CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223815CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2025-02-13",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224452",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2025-03-12",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224241R35291",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2025-03-12",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224241R35260",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2025-03-26",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224812",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-03-26",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B1186"
+      ]
+    },
+    {
+      "uid": "L17-AN1-DEBATS-51362",
+      "code": "AN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224552S49440",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2025-04-10",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225199DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2025-04-10",
+      "bodyId": "PO838901",
+      "outcome": "rejeté",
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17BTA0101"
+      ]
+    },
+    {
+      "uid": "L17-CMP-51362",
+      "code": "CMP",
+      "label": "Commission Mixte Paritaire",
+      "date": null,
+      "bodyId": "PO868620",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225452DIN",
+      "code": "CMP-DEPOT",
+      "label": "Dépôt d'un projet de loi",
+      "date": "2025-04-10",
+      "bodyId": "PO868620",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLSNR5S459B0537"
+      ]
+    },
+    {
+      "uid": "L17-VD225454CMPS",
+      "code": "CMP-SAISIE",
+      "label": "Convocation d'une CMP",
+      "date": "2025-04-10",
+      "bodyId": "PO868620",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225454COM",
+      "code": "CMP-COM",
+      "label": "Commission Mixte Paritaire",
+      "date": null,
+      "bodyId": "PO868620",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225802",
+      "code": "CMP-COM-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2025-05-14",
+      "bodyId": "PO868620",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225805",
+      "code": "CMP-COM-RAPPORT-AN",
+      "label": "Dépôt du rapport d'une CMP",
+      "date": "2025-05-14",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B1428"
+      ]
+    },
+    {
+      "uid": "L17-VD225815",
+      "code": "CMP-COM-RAPPORT-SN",
+      "label": "Dépôt du rapport d'une CMP",
+      "date": "2025-05-14",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S459B0621"
+      ]
+    },
+    {
+      "uid": "L17-CMP-DEBATS-SN-51362",
+      "code": "CMP-DEBATS-SN",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD226214DEC",
+      "code": "CMP-DEBATS-SN-DEC",
+      "label": "Décision",
+      "date": "2025-06-02",
+      "bodyId": "PO78718",
+      "outcome": "adopté, dans les conditions prévues à l'article 45, alinéa 3, de la Constitution",
+      "voteUids": [],
+      "textRefs": [
+        "PRJLSNR5S459BTA0130"
+      ]
+    },
+    {
+      "uid": "L17-CMP-DEBATS-AN-51362",
+      "code": "CMP-DEBATS-AN",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD226407S50446",
+      "code": "CMP-DEBATS-AN-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2025-06-17",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD226630DEC",
+      "code": "CMP-DEBATS-AN-DEC",
+      "label": "Décision",
+      "date": "2025-06-17",
+      "bodyId": "PO838901",
+      "outcome": "adopté, dans les conditions prévues à l'article 45, alinéa 3, de la Constitution",
+      "voteUids": [
+        "VTANR5L17V2460"
+      ],
+      "textRefs": [
+        "PRJLANR5L17BTA0145"
+      ]
+    },
+    {
+      "uid": "L17-VD225454DEC",
+      "code": "CMP-DEC",
+      "label": "Décision de la CMP",
+      "date": "2025-05-15",
+      "bodyId": "PO868620",
+      "outcome": "Accord",
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-PROM-51362",
+      "code": "PROM",
+      "label": "Promulgation de la loi",
+      "date": null,
+      "bodyId": "PO717136",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD226792PL",
+      "code": "PROM-PUB",
+      "label": "Promulgation d'une loi",
+      "date": "2025-06-23",
+      "bodyId": "PO717136",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V2460"
+  ],
+  "promulgation": {
+    "lawNumber": "2025-566",
+    "date": "2025-06-23",
+    "legifranceUrl": "http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=EAEJ2411782L"
+  },
+  "constitutionalCouncil": null
+}

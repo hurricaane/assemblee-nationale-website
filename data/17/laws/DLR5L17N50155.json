@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N50155",
+  "legislature": 17,
+  "title": "Allocution du Président d'âge",
+  "procedure": {
+    "code": "20",
+    "label": "Allocution du Président de l'Assemblée nationale"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN21-50155",
+      "code": "AN21",
+      "label": "Débat",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD220213",
+      "code": "AN21-APAN",
+      "label": "Allocution du Président de l'Assemblée nationale",
+      "date": "2024-07-18",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "ALCNANR5L17B0001"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

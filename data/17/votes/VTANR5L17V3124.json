@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V3124",
+  "number": 3124,
+  "date": "2025-10-27",
+  "title": "l'amendement n° 2829 de Mme Pantel après l'article 2 du projet de loi de finances pour 2026 (première lecture).",
+  "type": "SPO",
+  "result": "adopté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 104,
+    "contre": 33,
+    "abstentions": 35,
+    "nonVotants": 15,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 9,
+      "position": "pour",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "pour",
+      "tally": {
+        "pour": 50,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 92,
+      "position": "pour",
+      "tally": {
+        "pour": 2,
+        "contre": 17,
+        "abstentions": 0,
+        "nonVotants": 7,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "abstention",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 26,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 26
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 69,
+      "position": "pour",
+      "tally": {
+        "pour": 30,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 50,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 7,
+        "abstentions": 5,
+        "nonVotants": 3,
+        "nonVotantsVolontaires": 5
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "abstention",
+      "tally": {
+        "pour": 13,
+        "contre": 0,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "pour",
+      "tally": {
+        "pour": 5,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 7,
+        "abstentions": 0,
+        "nonVotants": 2,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 22,
+      "position": "contre",
+      "tally": {
+        "pour": 1,
+        "contre": 2,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "abstention",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 16,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": null
+}

@@ -1,0 +1,109 @@
+{
+  "uid": "DLR5L17N50317",
+  "legislature": 17,
+  "title": "Proposition de résolution visant à réunir le Parlement en Haute Cour, en vue d’engager la procédure de destitution à l’encontre du Président de la République, prévue à l’article 68 de la Constitution",
+  "procedure": {
+    "code": "14",
+    "label": "Responsabilité pénale du président de la république"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-50317",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD220736DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2024-09-04",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B0178"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-COM-50317",
+      "code": "ANLUNI-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD221050CF",
+      "code": "ANLUNI-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD221050CFS",
+      "code": "ANLUNI-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2024-09-04",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD221051",
+      "code": "ANLUNI-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2024-09-25",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD221025R34336",
+      "code": "ANLUNI-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2024-09-25",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD221025R34341",
+      "code": "ANLUNI-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2024-10-02",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD221113",
+      "code": "ANLUNI-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2024-10-02",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B0305"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

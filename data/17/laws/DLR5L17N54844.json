@@ -1,0 +1,73 @@
+{
+  "uid": "DLR5L17N54844",
+  "legislature": 17,
+  "title": "Garantir un accès continu à l’eau potable dans les territoires ultramarins",
+  "procedure": {
+    "code": "22",
+    "label": "Résolution Article 34-1"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-54844",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233596DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-09-08",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B3116"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-DEBATS-54844",
+      "code": "ANLUNI-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233606S53200",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-10-08",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234118DEC",
+      "code": "ANLUNI-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-10-08",
+      "bodyId": "PO838901",
+      "outcome": "rejetée",
+      "voteUids": [
+        "VTANR5L17V8609"
+      ],
+      "textRefs": [
+        "PNREANR5L17BTA0348"
+      ]
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V8609"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

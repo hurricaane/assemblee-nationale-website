@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N51049",
+  "legislature": 17,
+  "title": "Commission d'enquête concernant l’organisation des élections en France",
+  "procedure": {
+    "code": "9",
+    "label": "Commission d'enquête"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-51049",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN20-COMENQ-51049",
+      "code": "AN20-COMENQ",
+      "label": "Commission d'enquête",
+      "date": null,
+      "bodyId": "PO852507",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222702",
+      "code": "AN20-COMENQ-CREA",
+      "label": "Création d'une commission d'enquête",
+      "date": "2024-12-06",
+      "bodyId": "PO852507",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD226124",
+      "code": "AN20-COMENQ-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2024-12-19",
+      "bodyId": "PO852507",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD226125",
+      "code": "AN20-COMENQ-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-05-28",
+      "bodyId": "PO852507",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B1479"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

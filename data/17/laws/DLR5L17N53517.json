@@ -1,0 +1,71 @@
+{
+  "uid": "DLR5L17N53517",
+  "legislature": 17,
+  "title": "Motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mme Marine Le Pen et 57 de ses collègues",
+  "procedure": {
+    "code": "13",
+    "label": "Engagement de la responsabilité gouvernementale"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN21-53517",
+      "code": "AN21",
+      "label": "Débat",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229797",
+      "code": "AN21-MOTION",
+      "label": "Motion de censure",
+      "date": "2026-01-12",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "MIONANR5L17-N15"
+      ]
+    },
+    {
+      "uid": "L17-VD229882",
+      "code": "AN21-MOTION-VOTE",
+      "label": "Décision sur une motion de censure",
+      "date": "2026-01-14",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [
+        "VTANR5L17V4987"
+      ],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN21-DEBATS-53517",
+      "code": "AN21-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD229801S51796",
+      "code": "AN21-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-01-14",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V4987"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

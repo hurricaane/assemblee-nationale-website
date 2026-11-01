@@ -1,0 +1,783 @@
+{
+  "uid": "DLR5L15N41449",
+  "legislature": 15,
+  "title": "Démocratiser le sport en France",
+  "procedure": {
+    "code": "2",
+    "label": "Proposition de loi ordinaire"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L15-AN1-41449",
+      "code": "AN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199066DI",
+      "code": "AN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2021-01-26",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L15B3808"
+      ]
+    },
+    {
+      "uid": "L15-VD199629",
+      "code": "AN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2021-02-16",
+      "bodyId": "PO773371",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-AN1-COM-41449",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199067CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199067CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2021-01-26",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199637",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2021-02-17",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199640R29013",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2021-02-17",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199640R29033",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2021-03-03",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199640R29034",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2021-03-10",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199640R29153",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2021-03-10",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199640R29180",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2021-03-17",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD200156",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2021-03-11",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L15B3980"
+      ]
+    },
+    {
+      "uid": "L15-AN1-DEBATS-41449",
+      "code": "AN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199580S40833",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2021-03-17",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199580S40838",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2021-03-17",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199580S40841",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2021-03-18",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199580S40844",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2021-03-18",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199580S40847",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2021-03-18",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199580S40850",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2021-03-19",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD199580S40853",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2021-03-19",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD200272DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2021-03-19",
+      "bodyId": "PO717460",
+      "outcome": "adoptée",
+      "voteUids": [
+        "VTANR5L15V3506"
+      ],
+      "textRefs": [
+        "PIONANR5L15BTA0584",
+        "PIONANR5L15TAP0584"
+      ]
+    },
+    {
+      "uid": "L15-SN1-41449",
+      "code": "SN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD200296DIN",
+      "code": "SN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2021-03-19",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S359B0465"
+      ]
+    },
+    {
+      "uid": "L15-SN1-COM-41449",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD200297CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD200297CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2021-03-19",
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD205729",
+      "code": "SN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": null,
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD205730",
+      "code": "SN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2022-01-05",
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S379B0319"
+      ]
+    },
+    {
+      "uid": "L15-SN1-DEBATS-41449",
+      "code": "SN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206061S43692",
+      "code": "SN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2022-01-19",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206062DEC",
+      "code": "SN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2022-01-19",
+      "bodyId": "PO78718",
+      "outcome": "modifiée",
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S379BTA0075"
+      ]
+    },
+    {
+      "uid": "L15-CMP-41449",
+      "code": "CMP",
+      "label": "Commission Mixte Paritaire",
+      "date": null,
+      "bodyId": "PO789115",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206090CMPS",
+      "code": "CMP-SAISIE",
+      "label": "Convocation d'une CMP",
+      "date": "2022-01-20",
+      "bodyId": "PO789115",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206090COM",
+      "code": "CMP-COM",
+      "label": "Commission Mixte Paritaire",
+      "date": null,
+      "bodyId": "PO789115",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206354",
+      "code": "CMP-COM-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2022-01-31",
+      "bodyId": "PO789115",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206356",
+      "code": "CMP-COM-RAPPORT-SN",
+      "label": "Dépôt du rapport d'une CMP",
+      "date": "2022-01-31",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S379B0420"
+      ]
+    },
+    {
+      "uid": "L15-VD206357",
+      "code": "CMP-COM-RAPPORT-AN",
+      "label": "Dépôt du rapport d'une CMP",
+      "date": "2022-01-31",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L15B4977"
+      ]
+    },
+    {
+      "uid": "L15-VD206090DEC",
+      "code": "CMP-DEC",
+      "label": "Décision de la CMP",
+      "date": "2022-01-31",
+      "bodyId": "PO789115",
+      "outcome": "Désaccord",
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-ANNLEC-41449",
+      "code": "ANNLEC",
+      "label": "Nouvelle Lecture",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206070DIN",
+      "code": "ANNLEC-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2022-01-20",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L15B4930"
+      ]
+    },
+    {
+      "uid": "L15-ANNLEC-COM-41449",
+      "code": "ANNLEC-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206071CF",
+      "code": "ANNLEC-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206071CFS",
+      "code": "ANNLEC-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2022-01-20",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206243R31077",
+      "code": "ANNLEC-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2022-02-02",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206243R31078",
+      "code": "ANNLEC-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2022-02-03",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206462",
+      "code": "ANNLEC-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2022-02-03",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L15B4994"
+      ]
+    },
+    {
+      "uid": "L15-ANNLEC-DEBATS-41449",
+      "code": "ANNLEC-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206379S43626",
+      "code": "ANNLEC-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2022-02-09",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206379S43849",
+      "code": "ANNLEC-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2022-02-09",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206677DEC",
+      "code": "ANNLEC-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2022-02-09",
+      "bodyId": "PO717460",
+      "outcome": "adoptée",
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L15BTA0797",
+        "PIONANR5L15TAP0797"
+      ]
+    },
+    {
+      "uid": "L15-SNNLEC-41449",
+      "code": "SNNLEC",
+      "label": "Nouvelle Lecture",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206692DIN",
+      "code": "SNNLEC-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2022-02-10",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S379B0477"
+      ]
+    },
+    {
+      "uid": "L15-SNNLEC-COM-41449",
+      "code": "SNNLEC-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206693CF",
+      "code": "SNNLEC-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206693CFS",
+      "code": "SNNLEC-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2022-02-10",
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206729",
+      "code": "SNNLEC-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2022-02-15",
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S379B0482"
+      ]
+    },
+    {
+      "uid": "L15-SNNLEC-DEBATS-41449",
+      "code": "SNNLEC-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206783S43940",
+      "code": "SNNLEC-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2022-02-16",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206784DEC",
+      "code": "SNNLEC-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2022-02-16",
+      "bodyId": "PO78718",
+      "outcome": "rejetée",
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S379BTA0103"
+      ]
+    },
+    {
+      "uid": "L15-ANLDEF-41449",
+      "code": "ANLDEF",
+      "label": "Lecture définitive",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206806DIN",
+      "code": "ANLDEF-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2022-02-17",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L15BTA0797"
+      ]
+    },
+    {
+      "uid": "L15-ANLDEF-COM-41449",
+      "code": "ANLDEF-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206807CF",
+      "code": "ANLDEF-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206807CFS",
+      "code": "ANLDEF-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2022-02-17",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-ANLDEF-DEBATS-41449",
+      "code": "ANLDEF-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD206811S43881",
+      "code": "ANLDEF-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2022-02-24",
+      "bodyId": "PO717460",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD207065DEC",
+      "code": "ANLDEF-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2022-02-24",
+      "bodyId": "PO717460",
+      "outcome": "adoptée",
+      "voteUids": [
+        "VTANR5L15V4417"
+      ],
+      "textRefs": [
+        "PIONANR5L15BTA0816",
+        "PIONANR5L15TAP0816"
+      ]
+    },
+    {
+      "uid": "L15-PROM-41449",
+      "code": "PROM",
+      "label": "Promulgation de la loi",
+      "date": null,
+      "bodyId": "PO717136",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L15-VD207148PL",
+      "code": "PROM-PUB",
+      "label": "Promulgation d'une loi",
+      "date": "2022-03-02",
+      "bodyId": "PO717136",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN-APPLI-41449",
+      "code": "AN-APPLI",
+      "label": "Mise en application de la loi",
+      "date": null,
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230434",
+      "code": "AN-APPLI-RAPPORT",
+      "label": "Rapport sur l'application des lois",
+      "date": "2026-02-11",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B2465"
+      ]
+    }
+  ],
+  "voteUids": [
+    "VTANR5L15V3506",
+    "VTANR5L15V4417"
+  ],
+  "promulgation": {
+    "lawNumber": "2022-296",
+    "date": "2022-03-02",
+    "legifranceUrl": "http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=MENX2105502L"
+  },
+  "constitutionalCouncil": null
+}

@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N52724",
+  "legislature": 17,
+  "title": "Rapport d'information déposé en application de l'article 29 du règlement au nom des délégués de l'Assemblée nationale à l'Assemblée parlementaire de l'Organisation du traité de l'atlantique nord sur l'activité de la délégation française au cours de l'année",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-52724",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD227648",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-09-12",
+      "bodyId": "PO58974",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B1784"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

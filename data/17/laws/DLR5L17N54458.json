@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N54458",
+  "legislature": 17,
+  "title": "DOSSIER : rapport d'information déposé en application de l'article 145 du règlement, par la commission de la défense nationale et des forces armées, en conclusion des travaux d'une mission d'information sur le thème de « la mobilité stratégique en Europe et dans les territoires ultramarins »",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-54458",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232473",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-06-10",
+      "bodyId": "PO59046",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B2910"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

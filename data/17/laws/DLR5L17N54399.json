@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N54399",
+  "legislature": 17,
+  "title": "Conclusion des travaux du Printemps social de l’évaluation",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-54399",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232333",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-06-03",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B2874"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

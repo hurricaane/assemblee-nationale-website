@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N52476",
+  "legislature": 17,
+  "title": "La santé mentale des mineurs",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-52476",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD227221",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-07-10",
+      "bodyId": "PO804431",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B1700"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

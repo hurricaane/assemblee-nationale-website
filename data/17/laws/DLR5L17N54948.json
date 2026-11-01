@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N54948",
+  "legislature": 17,
+  "title": "Rapport d'information déposé en application de l'article 145-7 alinéa 1 du règlement, par la commission des affaires culturelles et de l'éducation sur l’évaluation de la loi n° 2021-1716 du 21 décembre 2021 créant la fonction de directrice ou de directeur",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-54948",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233851",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-09-30",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B3204"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

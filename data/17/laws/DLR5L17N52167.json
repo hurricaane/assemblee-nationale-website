@@ -1,0 +1,71 @@
+{
+  "uid": "DLR5L17N52167",
+  "legislature": 17,
+  "title": "Motion de censure déposée en application de l'article 49, alinéa 2, par Mme Aurélie Trouvé et 57 de ses collègues",
+  "procedure": {
+    "code": "13",
+    "label": "Engagement de la responsabilité gouvernementale"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN21-52167",
+      "code": "AN21",
+      "label": "Débat",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD226157",
+      "code": "AN21-MOTION",
+      "label": "Motion de censure",
+      "date": "2025-05-30",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "MIONANR5L17-N10"
+      ]
+    },
+    {
+      "uid": "L17-VD226367",
+      "code": "AN21-MOTION-VOTE",
+      "label": "Décision sur une motion de censure",
+      "date": "2025-06-04",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [
+        "VTANR5L17V2222"
+      ],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN21-DEBATS-52167",
+      "code": "AN21-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD226326S50372",
+      "code": "AN21-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2025-06-04",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V2222"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

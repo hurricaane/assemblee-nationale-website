@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N51050",
+  "legislature": 17,
+  "title": "DOSSIER : rapport d'information déposé en application de l'article 29 du règlement au nom des délégués de l'Assemblée nationale à l'Assemblée parlementaire du conseil de l'Europe sur l'activité de l'Assemblée parlementaire du Conseil de l'Europe au cours de la deuxième partie de sa session ordinaire de 2024",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-51050",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222704",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2024-12-06",
+      "bodyId": "PO304272",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B0706"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

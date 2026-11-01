@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N51857",
+  "legislature": 17,
+  "title": "Le vol spatial habité",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-51857",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225037",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-04-03",
+      "bodyId": "PO273589",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B1252"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

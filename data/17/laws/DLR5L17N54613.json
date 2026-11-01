@@ -1,0 +1,71 @@
+{
+  "uid": "DLR5L17N54613",
+  "legislature": 17,
+  "title": "Motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mme Cyrielle Chatelain, Mme Nadège Abomangoli et 56 de leurs collègues",
+  "procedure": {
+    "code": "13",
+    "label": "Engagement de la responsabilité gouvernementale"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN21-54613",
+      "code": "AN21",
+      "label": "Débat",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232914",
+      "code": "AN21-MOTION",
+      "label": "Motion de censure",
+      "date": "2026-07-02",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "MIONANR5L17-N24"
+      ]
+    },
+    {
+      "uid": "L17-VD232980",
+      "code": "AN21-MOTION-VOTE",
+      "label": "Décision sur une motion de censure",
+      "date": "2026-07-06",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [
+        "VTANR5L17V7979"
+      ],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN21-DEBATS-54613",
+      "code": "AN21-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232917S53106",
+      "code": "AN21-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-07-06",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V7979"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

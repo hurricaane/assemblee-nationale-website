@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V3681",
+  "number": 3681,
+  "date": "2025-11-12",
+  "title": "le sous-amendement n° 2715 de Mme Sandrine Rousseau à l'amendement n° 2686 du Gouvernement à l'article 45 bis (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 102,
+    "contre": 107,
+    "abstentions": 257,
+    "nonVotants": 14,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 9,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 5,
+        "abstentions": 4,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 4
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 109,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 109
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 92,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 3,
+        "abstentions": 57,
+        "nonVotants": 7,
+        "nonVotantsVolontaires": 57
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 55,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 55
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 69,
+      "position": "pour",
+      "tally": {
+        "pour": 64,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 49,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 35,
+        "abstentions": 6,
+        "nonVotants": 3,
+        "nonVotantsVolontaires": 6
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 30,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "abstention",
+      "tally": {
+        "pour": 1,
+        "contre": 13,
+        "abstentions": 16,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 16
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 27,
+        "abstentions": 0,
+        "nonVotants": 2,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 22,
+      "position": "contre",
+      "tally": {
+        "pour": 6,
+        "contre": 9,
+        "abstentions": 3,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 3
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "abstention",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 7,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 7
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 16,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 14,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": null
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "PO0",
+    "name": null,
+    "shortName": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "id": "PO840056",
+    "name": "Non inscrit",
+    "shortName": "NI",
+    "startDate": "2024-07-01",
+    "endDate": null
+  },
+  {
+    "id": "PO845401",
+    "name": "Rassemblement National",
+    "shortName": "RN",
+    "startDate": "2024-07-18",
+    "endDate": null
+  },
+  {
+    "id": "PO845407",
+    "name": "Ensemble pour la République",
+    "shortName": "EPR",
+    "startDate": "2024-07-18",
+    "endDate": null
+  },
+  {
+    "id": "PO845413",
+    "name": "La France insoumise - Nouveau Front Populaire",
+    "shortName": "LFI-NFP",
+    "startDate": "2024-07-18",
+    "endDate": null
+  },
+  {
+    "id": "PO845419",
+    "name": "Socialistes et apparentés",
+    "shortName": "SOC",
+    "startDate": "2024-07-18",
+    "endDate": null
+  },
+  {
+    "id": "PO845425",
+    "name": "Droite Républicaine",
+    "shortName": "DR",
+    "startDate": "2024-07-18",
+    "endDate": null
+  },
+  {
+    "id": "PO845439",
+    "name": "Écologiste et Social",
+    "shortName": "ECOS",
+    "startDate": "2024-07-18",
+    "endDate": null
+  },
+  {
+    "id": "PO845454",
+    "name": "Les Démocrates",
+    "shortName": "DEM",
+    "startDate": "2024-07-18",
+    "endDate": null
+  },
+  {
+    "id": "PO845470",
+    "name": "Horizons & Indépendants",
+    "shortName": "HOR",
+    "startDate": "2024-07-18",
+    "endDate": null
+  },
+  {
+    "id": "PO845485",
+    "name": "Libertés, Indépendants, Outre-mer et Territoires",
+    "shortName": "LIOT",
+    "startDate": "2024-07-18",
+    "endDate": null
+  },
+  {
+    "id": "PO845514",
+    "name": "Gauche Démocrate et Républicaine",
+    "shortName": "GDR",
+    "startDate": "2024-07-18",
+    "endDate": null
+  },
+  {
+    "id": "PO845520",
+    "name": "À Droite",
+    "shortName": "AD",
+    "startDate": "2024-07-18",
+    "endDate": "2024-09-11"
+  },
+  {
+    "id": "PO847173",
+    "name": "UDR",
+    "shortName": "UDR",
+    "startDate": "2024-09-12",
+    "endDate": "2025-09-04"
+  },
+  {
+    "id": "PO872880",
+    "name": "Union des droites pour la République",
+    "shortName": "UDDPLR",
+    "startDate": "2025-09-05",
+    "endDate": null
+  }
+]

@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V3935",
+  "number": 3935,
+  "date": "2025-11-18",
+  "title": "l'amendement n° 1 du Gouvernement à l'article 4 et Etat A du projet de loi de finances de fin de gestion pour 2025 (seconde délibération) (première lecture).",
+  "type": "SPO",
+  "result": "adopté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 165,
+    "contre": 44,
+    "abstentions": 124,
+    "nonVotants": 2,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 9,
+      "position": "pour",
+      "tally": {
+        "pour": 5,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 83,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 83
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 91,
+      "position": "pour",
+      "tally": {
+        "pour": 62,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 33,
+        "abstentions": 13,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 13
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 69,
+      "position": "abstention",
+      "tally": {
+        "pour": 27,
+        "contre": 3,
+        "abstentions": 4,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 4
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 49,
+      "position": "abstention",
+      "tally": {
+        "pour": 25,
+        "contre": 0,
+        "abstentions": 3,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 3
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 7,
+        "abstentions": 11,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 11
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "pour",
+      "tally": {
+        "pour": 20,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "pour",
+      "tally": {
+        "pour": 19,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 22,
+      "position": "pour",
+      "tally": {
+        "pour": 7,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 16,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 9,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 9
+      }
+    }
+  ],
+  "lawUid": null
+}

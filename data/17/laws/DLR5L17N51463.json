@@ -1,0 +1,55 @@
+{
+  "uid": "DLR5L17N51463",
+  "legislature": 17,
+  "title": "Mission d'information sur l'état des cours d'eau",
+  "procedure": {
+    "code": "10",
+    "label": "Mission d'information"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-51463",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN20-MISINF-51463",
+      "code": "AN20-MISINF",
+      "label": "Mission d'information",
+      "date": null,
+      "bodyId": "PO862556",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223656",
+      "code": "AN20-MISINF-CREA",
+      "label": "Création d'une mission d'information",
+      "date": "2025-02-06",
+      "bodyId": "PO862556",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD227987",
+      "code": "AN20-MISINF-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2025-02-11",
+      "bodyId": "PO862556",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

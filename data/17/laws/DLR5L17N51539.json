@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N51539",
+  "legislature": 17,
+  "title": "Évaluer l’efficacité de la politique de lutte contre les trafics de stupéfiants",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-51539",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223908",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-02-17",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B0974"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

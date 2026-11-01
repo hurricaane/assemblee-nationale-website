@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N55123",
+  "legislature": 17,
+  "title": "Rapport d'information déposé par la délégation de l'Assemblée nationale aux droits des femmes et à l'égalité des chances entre les hommes et les femmes sur le projet de loi de financement de la Sécurité sociale pour 2027",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-55123",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234370",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-10-20",
+      "bodyId": "PO201269",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B3354"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

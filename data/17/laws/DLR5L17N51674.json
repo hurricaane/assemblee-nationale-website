@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N51674",
+  "legislature": 17,
+  "title": "Commission d’enquête portant sur les défaillances des pouvoirs publics face à la multiplication des plans de licenciements",
+  "procedure": {
+    "code": "9",
+    "label": "Commission d'enquête"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-51674",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN20-COMENQ-51674",
+      "code": "AN20-COMENQ",
+      "label": "Commission d'enquête",
+      "date": null,
+      "bodyId": "PO866653",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224441",
+      "code": "AN20-COMENQ-CREA",
+      "label": "Création d'une commission d'enquête",
+      "date": "2025-03-12",
+      "bodyId": "PO866653",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD224708",
+      "code": "AN20-COMENQ-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2025-03-20",
+      "bodyId": "PO866653",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD227204",
+      "code": "AN20-COMENQ-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-07-09",
+      "bodyId": "PO866653",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B1697"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

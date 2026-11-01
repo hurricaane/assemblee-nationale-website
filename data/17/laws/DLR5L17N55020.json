@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N55020",
+  "legislature": 17,
+  "title": "DOSSIER : rapport déposé en application de l’article 148 du règlement, par la commission des affaires sociales, en conclusion des travaux sur la pétition n°4753 « Pour rendre obligatoire l’affichage du Nutri-Score sur les emballages des aliments en France »",
+  "procedure": {
+    "code": "16",
+    "label": "Pétitions"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-55020",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234091",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-10-07",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3277"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

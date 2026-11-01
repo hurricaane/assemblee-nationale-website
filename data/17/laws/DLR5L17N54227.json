@@ -1,0 +1,277 @@
+{
+  "uid": "DLR5L17N54227",
+  "legislature": 17,
+  "title": "Protéger les enfants et lutter contre les violences en milieu scolaire",
+  "procedure": {
+    "code": "2",
+    "label": "Proposition de loi ordinaire"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L17-AN1-54227",
+      "code": "AN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231636DI",
+      "code": "AN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-04-28",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L17B2708"
+      ]
+    },
+    {
+      "uid": "L17-VD231876",
+      "code": "AN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2026-05-11",
+      "bodyId": "PO873634",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN1-COM-54227",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231637CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231637CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-04-28",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231899",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-05-12",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231958R37381",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-05-26",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231958R37382",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-05-27",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231958R37418",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-06-01",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232164",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-05-27",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B2835"
+      ]
+    },
+    {
+      "uid": "L17-AN1-DEBATS-54227",
+      "code": "AN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231884S52660",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-06-01",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231884S52661",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-06-01",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232264DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-06-01",
+      "bodyId": "PO838901",
+      "outcome": "adoptée",
+      "voteUids": [
+        "VTANR5L17V7258"
+      ],
+      "textRefs": [
+        "PIONANR5L17BTA0294",
+        "PIONANR5L17TAP0294"
+      ]
+    },
+    {
+      "uid": "L17-SN1-54227",
+      "code": "SN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232370DIN",
+      "code": "SN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2026-06-02",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S479B0675"
+      ]
+    },
+    {
+      "uid": "L17-SN1-COM-54227",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232371CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD232371CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-06-02",
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V7209",
+    "VTANR5L17V7210",
+    "VTANR5L17V7211",
+    "VTANR5L17V7212",
+    "VTANR5L17V7213",
+    "VTANR5L17V7214",
+    "VTANR5L17V7215",
+    "VTANR5L17V7216",
+    "VTANR5L17V7217",
+    "VTANR5L17V7218",
+    "VTANR5L17V7219",
+    "VTANR5L17V7220",
+    "VTANR5L17V7221",
+    "VTANR5L17V7222",
+    "VTANR5L17V7223",
+    "VTANR5L17V7224",
+    "VTANR5L17V7225",
+    "VTANR5L17V7226",
+    "VTANR5L17V7227",
+    "VTANR5L17V7228",
+    "VTANR5L17V7229",
+    "VTANR5L17V7230",
+    "VTANR5L17V7231",
+    "VTANR5L17V7232",
+    "VTANR5L17V7233",
+    "VTANR5L17V7234",
+    "VTANR5L17V7235",
+    "VTANR5L17V7236",
+    "VTANR5L17V7237",
+    "VTANR5L17V7238",
+    "VTANR5L17V7239",
+    "VTANR5L17V7240",
+    "VTANR5L17V7241",
+    "VTANR5L17V7242",
+    "VTANR5L17V7243",
+    "VTANR5L17V7244",
+    "VTANR5L17V7245",
+    "VTANR5L17V7246",
+    "VTANR5L17V7247",
+    "VTANR5L17V7248",
+    "VTANR5L17V7249",
+    "VTANR5L17V7250",
+    "VTANR5L17V7251",
+    "VTANR5L17V7252",
+    "VTANR5L17V7253",
+    "VTANR5L17V7254",
+    "VTANR5L17V7255",
+    "VTANR5L17V7256",
+    "VTANR5L17V7257",
+    "VTANR5L17V7258"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N53792",
+  "legislature": 17,
+  "title": "Commission d’enquête relative à l’imposition des plus hauts patrimoines et des revenus les plus élevés et à leur contribution au financement des services publics",
+  "procedure": {
+    "code": "9",
+    "label": "Commission d'enquête"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-53792",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN20-COMENQ-53792",
+      "code": "AN20-COMENQ",
+      "label": "Commission d'enquête",
+      "date": null,
+      "bodyId": "PO878968",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230645",
+      "code": "AN20-COMENQ-CREA",
+      "label": "Création d'une commission d'enquête",
+      "date": "2026-02-19",
+      "bodyId": "PO878968",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233170",
+      "code": "AN20-COMENQ-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-02-25",
+      "bodyId": "PO878968",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233171",
+      "code": "AN20-COMENQ-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-07-08",
+      "bodyId": "PO878968",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3056"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

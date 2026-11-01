@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V5729",
+  "number": 5729,
+  "date": "2026-02-25",
+  "title": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (deuxième lecture).",
+  "type": "SPS",
+  "result": "adopté",
+  "isFinalVote": true,
+  "tally": {
+    "pour": 299,
+    "contre": 226,
+    "abstentions": 37,
+    "nonVotants": 1,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 10,
+      "position": "contre",
+      "tally": {
+        "pour": 3,
+        "contre": 7,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 122,
+      "position": "abstention",
+      "tally": {
+        "pour": 17,
+        "contre": 102,
+        "abstentions": 3,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 3
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 92,
+      "position": "abstention",
+      "tally": {
+        "pour": 64,
+        "contre": 14,
+        "abstentions": 9,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 9
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 71,
+      "position": "pour",
+      "tally": {
+        "pour": 62,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 69,
+      "position": "pour",
+      "tally": {
+        "pour": 60,
+        "contre": 4,
+        "abstentions": 3,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 3
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 49,
+      "position": "pour",
+      "tally": {
+        "pour": 5,
+        "contre": 42,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "pour",
+      "tally": {
+        "pour": 35,
+        "contre": 1,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 36,
+      "position": "abstention",
+      "tally": {
+        "pour": 20,
+        "contre": 12,
+        "abstentions": 4,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 4
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 34,
+      "position": "abstention",
+      "tally": {
+        "pour": 14,
+        "contre": 18,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 22,
+      "position": "pour",
+      "tally": {
+        "pour": 8,
+        "contre": 6,
+        "abstentions": 8,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 8
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "abstention",
+      "tally": {
+        "pour": 11,
+        "contre": 2,
+        "abstentions": 4,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 4
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 17,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 17,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    }
+  ],
+  "lawUid": "DLR5L17N51670"
+}

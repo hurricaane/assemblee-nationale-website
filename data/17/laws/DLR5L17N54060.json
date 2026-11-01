@@ -1,0 +1,55 @@
+{
+  "uid": "DLR5L17N54060",
+  "legislature": 17,
+  "title": "Mission d'information sur la stratégie de développement économique des outre-mer",
+  "procedure": {
+    "code": "10",
+    "label": "Mission d'information"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-54060",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN20-MISINF-54060",
+      "code": "AN20-MISINF",
+      "label": "Mission d'information",
+      "date": null,
+      "bodyId": "PO880029",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231186",
+      "code": "AN20-MISINF-CREA",
+      "label": "Création d'une mission d'information",
+      "date": "2026-04-04",
+      "bodyId": "PO880029",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231202",
+      "code": "AN20-MISINF-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-04-02",
+      "bodyId": "PO880029",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

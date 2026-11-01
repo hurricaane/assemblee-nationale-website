@@ -1,0 +1,83 @@
+{
+  "uid": "DLR5L17N51475",
+  "legislature": 17,
+  "title": "Engagement de la responsabilité du Gouvernement sur la troisième partie et l'ensemble du projet de loi de financement de la sécurité sociale pour 2025, en nouvelle lecture",
+  "procedure": {
+    "code": "13",
+    "label": "Engagement de la responsabilité gouvernementale"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN21-51475",
+      "code": "AN21",
+      "label": "Débat",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223710",
+      "code": "AN21-DGVT",
+      "label": "Dépôt d'une déclaration du gouvernement",
+      "date": "2025-02-10",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "DECLANR5L17B0622-N2"
+      ]
+    },
+    {
+      "uid": "L17-VD223717",
+      "code": "AN21-MOTION",
+      "label": "Motion de censure",
+      "date": "2025-02-10",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "MIONANR5L17B0622-N8"
+      ]
+    },
+    {
+      "uid": "L17-VD223799",
+      "code": "AN21-MOTION-VOTE",
+      "label": "Décision sur une motion de censure",
+      "date": "2025-02-12",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [
+        "VTANR5L17V791"
+      ],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN21-DEBATS-51475",
+      "code": "AN21-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223733S49079",
+      "code": "AN21-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2025-02-12",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V791"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

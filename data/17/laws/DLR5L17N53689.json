@@ -1,0 +1,118 @@
+{
+  "uid": "DLR5L17N53689",
+  "legislature": 17,
+  "title": "Engagement de la responsabilité du Gouvernement sur le vote en lecture définitive du projet de loi de finances pour 2026",
+  "procedure": {
+    "code": "13",
+    "label": "Engagement de la responsabilité gouvernementale"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN21-53689",
+      "code": "AN21",
+      "label": "Débat",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230176",
+      "code": "AN21-DGVT",
+      "label": "Dépôt d'une déclaration du gouvernement",
+      "date": "2026-01-30",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "DECLANR5L17B2410-N0"
+      ]
+    },
+    {
+      "uid": "L17-VD230178",
+      "code": "AN21-MOTION",
+      "label": "Motion de censure",
+      "date": "2026-01-30",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "MIONANR5L17B2410-N20"
+      ]
+    },
+    {
+      "uid": "L17-VD230315",
+      "code": "AN21-MOTION-VOTE",
+      "label": "Décision sur une motion de censure",
+      "date": "2026-02-02",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [
+        "VTANR5L17V5284"
+      ],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230183",
+      "code": "AN21-MOTION",
+      "label": "Motion de censure",
+      "date": "2026-01-30",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "MIONANR5L17B2410-N21"
+      ]
+    },
+    {
+      "uid": "L17-VD230316",
+      "code": "AN21-MOTION-VOTE",
+      "label": "Décision sur une motion de censure",
+      "date": "2026-02-02",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [
+        "VTANR5L17V5285"
+      ],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN21-DEBATS-53689",
+      "code": "AN21-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230236S51975",
+      "code": "AN21-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-02-02",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD230236S51976",
+      "code": "AN21-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-02-02",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V5284",
+    "VTANR5L17V5285"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

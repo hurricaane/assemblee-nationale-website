@@ -1,0 +1,55 @@
+{
+  "uid": "DLR5L17N50836",
+  "legislature": 17,
+  "title": "Mission d'information sur l'avenir institutionnel des outre-mer",
+  "procedure": {
+    "code": "10",
+    "label": "Mission d'information"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-50836",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN20-MISINF-50836",
+      "code": "AN20-MISINF",
+      "label": "Mission d'information",
+      "date": null,
+      "bodyId": "PO850110",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222039",
+      "code": "AN20-MISINF-CREA",
+      "label": "Création d'une mission d'information",
+      "date": "2024-11-06",
+      "bodyId": "PO850110",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222119",
+      "code": "AN20-MISINF-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2024-10-31",
+      "bodyId": "PO850110",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

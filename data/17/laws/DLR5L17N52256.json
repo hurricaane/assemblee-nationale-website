@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N52256",
+  "legislature": 17,
+  "title": "Mission d'information commune sur les moyens consacrés au volet diplomatique de notre réorientation stratégique",
+  "procedure": {
+    "code": "10",
+    "label": "Mission d'information"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-52256",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN20-MISINF-52256",
+      "code": "AN20-MISINF",
+      "label": "Mission d'information",
+      "date": null,
+      "bodyId": "PO870864",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD226422",
+      "code": "AN20-MISINF-CREA",
+      "label": "Création d'une mission d'information",
+      "date": "2025-06-07",
+      "bodyId": "PO870864",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233844",
+      "code": "AN20-MISINF-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2025-06-04",
+      "bodyId": "PO870864",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD233846",
+      "code": "AN20-MISINF-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-09-30",
+      "bodyId": "PO870864",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B3201"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

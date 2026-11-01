@@ -1,0 +1,57 @@
+{
+  "uid": "DLR5L17N51557",
+  "legislature": 17,
+  "title": "Commission d’enquête afin d’étudier et de rechercher les causes de la variation et des écarts des prévisions fiscales et budgétaires des administrations publiques pour les années 2023 et 2024",
+  "procedure": {
+    "code": "9",
+    "label": "Commission d'enquête"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-51557",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN20-COMENQ-51557",
+      "code": "AN20-COMENQ",
+      "label": "Commission d'enquête",
+      "date": null,
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD223976",
+      "code": "AN20-COMENQ-CREA",
+      "label": "Création d'une commission d'enquête",
+      "date": "2025-02-19",
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD225175",
+      "code": "AN20-COMENQ-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2025-04-09",
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B1274"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

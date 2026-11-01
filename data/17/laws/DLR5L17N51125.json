@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N51125",
+  "legislature": 17,
+  "title": "L’activité de la délégation française au cours de l’année 2023 de l’Assemblée parlementaire de l’Organisation du Traité de l’Atlantique Nord",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-51125",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222832",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2024-12-18",
+      "bodyId": "PO58974",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B0726"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

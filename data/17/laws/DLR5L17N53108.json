@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N53108",
+  "legislature": 17,
+  "title": "Commission d’enquête sur la neutralité, le fonctionnement et le financement de l’audiovisuel public",
+  "procedure": {
+    "code": "9",
+    "label": "Commission d'enquête"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-53108",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN20-COMENQ-53108",
+      "code": "AN20-COMENQ",
+      "label": "Commission d'enquête",
+      "date": null,
+      "bodyId": "PO874480",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD228592",
+      "code": "AN20-COMENQ-CREA",
+      "label": "Création d'une commission d'enquête",
+      "date": "2025-11-12",
+      "bodyId": "PO874480",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231818",
+      "code": "AN20-COMENQ-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2025-11-12",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231605",
+      "code": "AN20-COMENQ-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-04-27",
+      "bodyId": "PO874480",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B2698"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

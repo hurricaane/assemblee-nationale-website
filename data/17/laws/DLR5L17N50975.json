@@ -1,0 +1,105 @@
+{
+  "uid": "DLR5L17N50975",
+  "legislature": 17,
+  "title": "Engagement de la responsabilité du Gouvernement sur l’ensemble du projet de loi de financement de la sécurité sociale pour 2025, dans sa version résultant de la commission mixte paritaire",
+  "procedure": {
+    "code": "13",
+    "label": "Engagement de la responsabilité gouvernementale"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN21-50975",
+      "code": "AN21",
+      "label": "Débat",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222534",
+      "code": "AN21-DGVT",
+      "label": "Dépôt d'une déclaration du gouvernement",
+      "date": "2024-12-02",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "DECLANR5L17B0638-N0"
+      ]
+    },
+    {
+      "uid": "L17-VD222536",
+      "code": "AN21-MOTION",
+      "label": "Motion de censure",
+      "date": "2024-12-02",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "MIONANR5L17B0638-N2"
+      ]
+    },
+    {
+      "uid": "L17-VD222690",
+      "code": "AN21-MOTION-VOTE",
+      "label": "Décision sur une motion de censure",
+      "date": "2024-12-04",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [
+        "VTANR5L17V519"
+      ],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222537",
+      "code": "AN21-MOTION",
+      "label": "Motion de censure",
+      "date": "2024-12-02",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "MIONANR5L17B0638-N3"
+      ]
+    },
+    {
+      "uid": "L17-AN21-DEBATS-50975",
+      "code": "AN21-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222665S48548",
+      "code": "AN21-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2024-12-04",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222665S48549",
+      "code": "AN21-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2024-12-04",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [
+    "VTANR5L17V519"
+  ],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

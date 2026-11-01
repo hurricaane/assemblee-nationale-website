@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N54086",
+  "legislature": 17,
+  "title": "Proposition de loi présentée en application de l'article 11 de la Constitution en application du troisième alinéa de l'article 11 de la Constitution, visant à exclure de la notion de soin la provocation active de la mort",
+  "procedure": {
+    "code": "23",
+    "label": "Proposition de loi présentée en application de l'article 11 de la Constitution"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L17-SN1-54086",
+      "code": "SN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231250DI",
+      "code": "SN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-04-07",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S479B0510"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

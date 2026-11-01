@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N50842",
+  "legislature": 17,
+  "title": "Activité de la délégation aux collectivités territoriales et à la décentralisation au cours de la XVIème Législature",
+  "procedure": {
+    "code": "19",
+    "label": "Rapport d'information sans mission"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-AN20-50842",
+      "code": "AN20",
+      "label": "Travaux",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD222060",
+      "code": "AN20-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2024-11-06",
+      "bodyId": "PO744127",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RINFANR5L17B0542"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}
