@@ -5,15 +5,12 @@ on:
     types: [opened, reopened, ready_for_review, synchronize]
   issue_comment:
 
-# The Moonshot account allows one request at a time across the whole account: queue runs instead of overlapping
-concurrency:
-  group: pr-agent
-  cancel-in-progress: false
-
 jobs:
   pr_agent_job:
     if: ${{ github.event.sender.type != 'Bot' }}
     runs-on: ubuntu-latest
+    # A model call that never answers would otherwise hold the runner for GitHub's 6-hour default
+    timeout-minutes: 20
     permissions:
       contents: read
       issues: write
