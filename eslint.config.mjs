@@ -12,7 +12,7 @@ export default withNuxt(
         semi: true,
         quotes: "double",
       },
-      ignores: ["**/*.md"],
+      ignores: ["**/*.md", "data/**"],
     },
     {
       rules: {

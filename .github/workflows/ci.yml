@@ -1,0 +1,54 @@
+name: CI
+
+# Vercel deploys on its own (production on main, previews on PRs); this workflow only checks the code.
+on:
+  pull_request:
+    paths-ignore:
+      - "data/**"
+  push:
+    branches: [main]
+    # The nightly import only touches data/: no need to re-check the code
+    paths-ignore:
+      - "data/**"
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          # Full history, so the secret scan also covers commits made with --no-verify
+          fetch-depth: 0
+
+      # Node and pnpm versions come from mise.toml
+      - uses: jdx/mise-action@v5.2.5
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Secret scan
+        run: mise x gitleaks@8.30.1 -- gitleaks git --redact --verbose --no-banner --log-level warn
+
+      - name: Lint
+        run: pnpm lint
+
+      - name: Type check scripts and tests
+        run: pnpm exec tsc -p scripts
+
+      - name: Tests
+        run: pnpm test
+
+      # Production builds require these (shared/lib/env.ts). This build is thrown away, so CI uses
+      # a reserved .invalid domain and a secret generated per run: nothing real is stored or exposed.
+      - name: Build
+        env:
+          NUXT_SITE_URL: https://ci.invalid
+        run: NUXT_APP_SECRET="$(openssl rand -hex 32)" pnpm build
