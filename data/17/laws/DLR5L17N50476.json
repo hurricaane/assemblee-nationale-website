@@ -198,7 +198,9 @@
       ]
     }
   ],
-  "voteUids": [],
+  "voteUids": [
+    "VTANR5L17V685"
+  ],
   "promulgation": null,
   "constitutionalCouncil": null
 }

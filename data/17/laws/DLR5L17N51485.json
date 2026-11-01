@@ -262,7 +262,9 @@
       "textRefs": []
     }
   ],
-  "voteUids": [],
+  "voteUids": [
+    "VTANR5L17V1306"
+  ],
   "promulgation": {
     "lawNumber": "2025-336",
     "date": "2025-04-14",

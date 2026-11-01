@@ -8,7 +8,7 @@ import { parseArgs } from "node:util";
 import { RawOrganeFileSchema, toGroups } from "./groups.ts";
 import { RawDossierFileSchema, toLaw } from "./laws.ts";
 import { linkVotes, RawDocumentFileSchema } from "./link.ts";
-import { RawScrutinFileSchema, toVote } from "./votes.ts";
+import { RawScrutinFileSchema, resolveUnknownGroups, toVote } from "./votes.ts";
 import { writeDataset } from "./write-dataset.ts";
 
 export type ImportOptions = {
@@ -62,6 +62,7 @@ export async function runImport(options: ImportOptions): Promise<{ written: numb
   }
 
   const votes = scrutins.map(file => toVote(file.scrutin));
+  resolveUnknownGroups(votes);
   const laws = dossiers.map(file => toLaw(file.dossierParlementaire));
   linkVotes(votes, laws, documents.map(file => file.document));
   const { groups, unresolvedGroupIds } = toGroups(organes.map(file => file.organe), legislature, votes);

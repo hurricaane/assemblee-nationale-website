@@ -116,3 +116,42 @@ it("a link to a file missing from the dataset is dropped", () => {
   linkVotes([final], [], []);
   assert.equal(final.lawUid, null);
 });
+
+it("final vote title ending with a period still matches", () => {
+  const final = vote("unlinked-final-vote.json");
+  final.title = `l'ensemble de la ${document.titres!.titrePrincipal!}.`;
+  linkVotes([final], [
+    law(document.dossierRef!),
+  ], [document]);
+  assert.equal(final.lawUid, document.dossierRef);
+});
+
+it("ambiguous title match picks the only file with a committee report", () => {
+  const final = vote("unlinked-final-vote.json");
+  const twin = { ...document, uid: "OTHER", dossierRef: "DLR5L17N99999" };
+  const report = RawDocumentFileSchema.parse({
+    document: {
+      uid: "RAPPANR5L17B0001",
+      dossierRef: twin.dossierRef,
+      classification: {
+        type: { code: "RAPP" },
+      },
+    },
+  }).document;
+  linkVotes([final], [
+    law(document.dossierRef!),
+    law(twin.dossierRef),
+  ], [document, twin, report]);
+  assert.equal(final.lawUid, twin.dossierRef);
+});
+
+it("votes listed by hand link to their file", () => {
+  const final = {
+    ...vote("unlinked-final-vote.json"),
+    uid: "VTANR5L17V788",
+  };
+  const target = law("DLR5L16N49176");
+  linkVotes([final], [target], []);
+  assert.equal(final.lawUid, "DLR5L16N49176");
+  assert.deepEqual(target.voteUids, ["VTANR5L17V788"]);
+});

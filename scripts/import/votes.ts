@@ -94,3 +94,41 @@ export function toVote(raw: RawScrutin): Vote {
     lawUid: raw.objet.dossierLegislatif?.dossierRef ?? null,
   };
 }
+
+// The source sometimes publishes a group as "PO0" instead of its code (all groups of the 2024-12-02 votes, RN alone in others)
+const UNKNOWN_GROUP_ID = "PO0";
+
+function hasUnknownGroup(vote: Vote): boolean {
+  return vote.groups.some(group => group.groupId === UNKNOWN_GROUP_ID);
+}
+
+// Group sizes are distinct and barely move from one vote to the next: an unknown group takes the code of the
+// group with the same size in the nearest complete vote before or after it. Sizes can change between those two
+// votes, so either side may match, but the match must be unique and both sides must agree
+export function resolveUnknownGroups(votes: Vote[]): void {
+  const sorted = votes.toSorted((a, b) => a.number - b.number);
+  sorted.forEach((vote, index) => {
+    if (!hasUnknownGroup(vote))
+      return;
+    const references = [
+      sorted.slice(0, index).findLast(candidate => !hasUnknownGroup(candidate)),
+      sorted.slice(index + 1).find(candidate => !hasUnknownGroup(candidate)),
+    ].filter(reference => reference !== undefined);
+
+    const knownIds = new Set(vote.groups.map(group => group.groupId));
+    const unknown = vote.groups.filter(group => group.groupId === UNKNOWN_GROUP_ID);
+    for (const group of unknown) {
+      if (unknown.filter(other => other.members === group.members).length > 1)
+        continue;
+      const candidateIds = new Set(references.flatMap((reference) => {
+        const matches = reference.groups.filter(other => other.members === group.members && !knownIds.has(other.groupId));
+        return matches.length === 1
+          ? [matches[0]!.groupId]
+          : [];
+      }));
+      if (candidateIds.size === 1)
+        group.groupId = [...candidateIds][0]!;
+    }
+    vote.groups.sort((a, b) => a.groupId.localeCompare(b.groupId));
+  });
+}

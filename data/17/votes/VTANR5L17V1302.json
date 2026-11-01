@@ -15,24 +15,24 @@
   },
   "groups": [
     {
-      "groupId": "PO0",
-      "members": 123,
-      "position": "contre",
-      "tally": {
-        "pour": 0,
-        "contre": 73,
-        "abstentions": 0,
-        "nonVotants": 0,
-        "nonVotantsVolontaires": 0
-      }
-    },
-    {
       "groupId": "PO840056",
       "members": 11,
       "position": "pour",
       "tally": {
         "pour": 5,
         "contre": 2,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 123,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 73,
         "abstentions": 0,
         "nonVotants": 0,
         "nonVotantsVolontaires": 0

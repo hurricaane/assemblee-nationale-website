@@ -1,3 +1,5 @@
+import type { Vote } from "../../../shared/data/types.ts";
+
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { it } from "vitest";
@@ -5,7 +7,7 @@ import { it } from "vitest";
 import { z } from "zod";
 
 import { oneOrMany } from "../../../scripts/import/one-or-many.ts";
-import { isFinalVoteTitle, RawScrutinFileSchema, toVote } from "../../../scripts/import/votes.ts";
+import { isFinalVoteTitle, RawScrutinFileSchema, resolveUnknownGroups, toVote } from "../../../scripts/import/votes.ts";
 
 function readFixture(name: string): unknown {
   return JSON.parse(readFileSync(new URL(`./fixtures/scrutins/${name}`, import.meta.url), "utf8"));
@@ -65,4 +67,100 @@ it("a uid that is not a plain identifier is rejected", () => {
   const json = readFixture("amendment-vote.json") as { scrutin: { uid: string } };
   json.scrutin.uid = "../../etc/x";
   assert.throws(() => RawScrutinFileSchema.parse(json));
+});
+
+function withGroups(number: number, groups: [string, number][]): Vote {
+  const vote = toVote(load("amendment-vote.json"));
+  const tally = vote.groups[0]!.tally;
+  return {
+    ...vote,
+    uid: `V${number}`,
+    number,
+    groups: groups.map(([groupId, members]) => ({
+      groupId,
+      members,
+      position: "pour",
+      tally,
+    })),
+  };
+}
+
+const ids = (vote: Vote) => vote.groups.map(group => group.groupId);
+
+it("resolveUnknownGroups takes codes from the nearest complete vote by group size", () => {
+  const before = withGroups(10, [
+    ["PO1", 121],
+    ["PO2", 90],
+    ["PO3", 10],
+  ]);
+  const allUnknown = withGroups(12, [
+    ["PO0", 121],
+    ["PO0", 90],
+    ["PO0", 10],
+  ]);
+  // Its nearest vote (12) has unknown groups too, so 10 is the reference
+  const oneUnknown = withGroups(20, [
+    ["PO0", 121],
+    ["PO2", 90],
+    ["PO3", 10],
+  ]);
+  resolveUnknownGroups([oneUnknown, allUnknown, before]);
+  assert.deepEqual(ids(allUnknown), ["PO1", "PO2", "PO3"]);
+  assert.deepEqual(ids(oneUnknown), ["PO1", "PO2", "PO3"]);
+});
+
+it("resolveUnknownGroups uses the vote after when sizes changed since the vote before", () => {
+  const before = withGroups(1, [
+    ["PO1", 94],
+    ["PO2", 10],
+  ]);
+  const unknown = withGroups(2, [
+    ["PO0", 93],
+    ["PO2", 10],
+  ]);
+  const after = withGroups(3, [
+    ["PO1", 93],
+    ["PO2", 10],
+  ]);
+  resolveUnknownGroups([before, unknown, after]);
+  assert.deepEqual(ids(unknown), ["PO1", "PO2"]);
+});
+
+it("resolveUnknownGroups leaves a group unknown when the votes before and after disagree", () => {
+  const before = withGroups(1, [
+    ["PO1", 50],
+    ["PO2", 10],
+  ]);
+  const unknown = withGroups(2, [
+    ["PO0", 50],
+    ["PO2", 10],
+  ]);
+  const after = withGroups(3, [
+    ["PO3", 50],
+    ["PO2", 10],
+  ]);
+  resolveUnknownGroups([before, unknown, after]);
+  assert.deepEqual(ids(unknown), ["PO0", "PO2"]);
+});
+
+it("resolveUnknownGroups leaves ambiguous groups unknown", () => {
+  const reference = withGroups(1, [
+    ["PO1", 50],
+    ["PO2", 50],
+    ["PO3", 10],
+  ]);
+  // Two reference groups of 50 members; two unknown groups of 10 members
+  const sameSize = withGroups(2, [
+    ["PO0", 50],
+    ["PO0", 10],
+    ["PO0", 10],
+  ]);
+  // The only 10-member group is already present in the vote
+  const taken = withGroups(3, [
+    ["PO0", 10],
+    ["PO3", 10],
+  ]);
+  resolveUnknownGroups([reference, sameSize, taken]);
+  assert.deepEqual(ids(sameSize), ["PO0", "PO0", "PO0"]);
+  assert.deepEqual(ids(taken), ["PO0", "PO3"]);
 });

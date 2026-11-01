@@ -37,7 +37,7 @@ export function toGroups(
     });
   }
 
-  // Votes can cite codes the source doesn't describe (e.g. "PO0"): keep them, flagged by an empty name
+  // Votes can cite codes the source doesn't describe ("PO0" when resolveUnknownGroups found no match): keep them, flagged by an empty name
   const unresolved = new Set<string>();
   for (const vote of votes) {
     for (const { groupId } of vote.groups) {
