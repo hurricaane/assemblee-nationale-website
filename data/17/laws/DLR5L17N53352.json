@@ -59,6 +59,18 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD234664",
+      "code": "ANLUNI-RTRINI",
+      "label": "Retrait d'une initiative",
+      "date": "2026-11-02",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B2240"
+      ]
     }
   ],
   "voteUids": [],

@@ -71,6 +71,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234085",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-10-01",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-VD234333",
       "code": "AN1-COM-FOND-RAPPORT",
       "label": "Dépôt de rapport",
@@ -258,6 +268,58 @@
       "textRefs": [
         "PRJLANR5L17BTA0358"
       ]
+    },
+    {
+      "uid": "L17-SN1-54951",
+      "code": "SN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234680DIN",
+      "code": "SN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2026-11-02",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLSNR5S499B0138"
+      ]
+    },
+    {
+      "uid": "L17-SN1-COM-54951",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234681CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211493",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234681CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-11-02",
+      "bodyId": "PO211493",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [
