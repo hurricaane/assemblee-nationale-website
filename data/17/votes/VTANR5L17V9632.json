@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V9632",
+  "number": 9632,
+  "date": "2026-11-03",
+  "title": "l'amendement n° 62 de Mme Vignon et les amendements identiques suivants après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 39,
+    "contre": 86,
+    "abstentions": 72,
+    "nonVotants": 2,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 11,
+      "position": "pour",
+      "tally": {
+        "pour": 1,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 121,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 60,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 60
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 90,
+      "position": "pour",
+      "tally": {
+        "pour": 4,
+        "contre": 18,
+        "abstentions": 2,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 70,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 26,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 68,
+      "position": "contre",
+      "tally": {
+        "pour": 1,
+        "contre": 22,
+        "abstentions": 2,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 2
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 47,
+      "position": "abstention",
+      "tally": {
+        "pour": 1,
+        "contre": 6,
+        "abstentions": 7,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 7
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 38,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 11,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 37,
+      "position": "pour",
+      "tally": {
+        "pour": 11,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 35,
+      "position": "pour",
+      "tally": {
+        "pour": 10,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 23,
+      "position": "pour",
+      "tally": {
+        "pour": 2,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 3,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 9,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    }
+  ],
+  "lawUid": "DLR5L17N54629"
+}
