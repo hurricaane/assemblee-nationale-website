@@ -137,6 +137,18 @@
       ]
     },
     {
+      "uid": "L17-VD234625ACIN",
+      "code": "AN1-ACIN",
+      "label": "Accord international",
+      "date": "2026-10-29",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "ACINANR5L17B3426"
+      ]
+    },
+    {
       "uid": "L17-AN1-COM-54767",
       "code": "AN1-COM",
       "label": "Travaux des commissions",
@@ -161,6 +173,26 @@
       "code": "AN1-COM-FOND-SAISIE",
       "label": "Renvoi en commission au fond",
       "date": "2026-10-29",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234760",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-10-28",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234755R38004",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-12-02",
       "bodyId": "PO59047",
       "outcome": null,
       "voteUids": [],

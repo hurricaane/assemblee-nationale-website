@@ -101,6 +101,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234479R38011",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-11-18",
+      "bodyId": "PO419610",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-AN1-DEBATS-54718",
       "code": "AN1-DEBATS",
       "label": "Discussion en séance publique",

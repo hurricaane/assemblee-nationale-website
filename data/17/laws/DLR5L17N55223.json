@@ -1,0 +1,167 @@
+{
+  "uid": "DLR5L17N55223",
+  "legislature": 17,
+  "title": "Projet de loi de finances de fin de gestion pour 2026",
+  "procedure": {
+    "code": "21",
+    "label": "Projet de loi de finances rectificative"
+  },
+  "kind": "budget",
+  "acts": [
+    {
+      "uid": "L17-AN1-55223",
+      "code": "AN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234722DI",
+      "code": "AN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-11-04",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17B3434"
+      ]
+    },
+    {
+      "uid": "L17-VD234724",
+      "code": "AN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2026-11-04",
+      "bodyId": "PO873634",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN1-COM-55223",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234723CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234723CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-11-04",
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234750",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-10-20",
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234765R38005",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-11-12",
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-AN1-DEBATS-55223",
+      "code": "AN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234730S53569",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-12",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234730S53572",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-12",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234730S53590",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-12",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234730S53600",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-13",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234730S53602",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-13",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234730S53604",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-13",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

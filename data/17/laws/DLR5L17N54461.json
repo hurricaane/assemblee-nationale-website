@@ -31,6 +31,16 @@
       ]
     },
     {
+      "uid": "L17-VD234692",
+      "code": "SN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2026-11-03",
+      "bodyId": "PO873634",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-SN1-COM-54461",
       "code": "SN1-COM",
       "label": "Travaux des commissions",
@@ -81,6 +91,90 @@
       "textRefs": [
         "RAPPSNR5S499B0106"
       ]
+    },
+    {
+      "uid": "L17-SN1-DEBATS-54461",
+      "code": "SN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234745S53609",
+      "code": "SN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-04",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234746DEC",
+      "code": "SN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-11-04",
+      "bodyId": "PO78718",
+      "outcome": "adoptée",
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S499BTA0027"
+      ]
+    },
+    {
+      "uid": "L17-AN1-54461",
+      "code": "AN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234752DIN",
+      "code": "AN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2026-11-05",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L17B3439"
+      ]
+    },
+    {
+      "uid": "L17-AN1-COM-54461",
+      "code": "AN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234753CF",
+      "code": "AN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234753CFS",
+      "code": "AN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-11-05",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [],

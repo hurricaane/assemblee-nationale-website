@@ -230,6 +230,80 @@
       "textRefs": [
         "RAPPSNR5S499B0120"
       ]
+    },
+    {
+      "uid": "L17-SN1-DEBATS-51518",
+      "code": "SN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234767DEC",
+      "code": "SN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-11-05",
+      "bodyId": "PO78718",
+      "outcome": "modifiée",
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S499BTA0029"
+      ]
+    },
+    {
+      "uid": "L17-AN2-51518",
+      "code": "AN2",
+      "label": "deuxième lecture",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234774DIN",
+      "code": "AN2-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2026-11-05",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L17B3442"
+      ]
+    },
+    {
+      "uid": "L17-AN2-COM-51518",
+      "code": "AN2-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234775CF",
+      "code": "AN2-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234775CFS",
+      "code": "AN2-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-11-05",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [

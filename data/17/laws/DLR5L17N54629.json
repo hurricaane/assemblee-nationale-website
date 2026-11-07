@@ -1397,184 +1397,58 @@
       "textRefs": []
     },
     {
-      "uid": "L17-VD233824S53463",
+      "uid": "L17-VD233824S53570",
       "code": "AN1-DEBATS-SEANCE",
       "label": "Discussion en séance publique",
-      "date": "2026-11-09",
+      "date": "2026-11-03",
       "bodyId": "PO838901",
       "outcome": null,
       "voteUids": [],
       "textRefs": []
     },
     {
-      "uid": "L17-VD233824S53464",
+      "uid": "L17-VD233824S53573",
       "code": "AN1-DEBATS-SEANCE",
       "label": "Discussion en séance publique",
-      "date": "2026-11-09",
+      "date": "2026-11-03",
       "bodyId": "PO838901",
       "outcome": null,
       "voteUids": [],
       "textRefs": []
     },
     {
-      "uid": "L17-VD233824S53465",
+      "uid": "L17-VD233824S53574",
       "code": "AN1-DEBATS-SEANCE",
       "label": "Discussion en séance publique",
-      "date": "2026-11-09",
+      "date": "2026-11-04",
       "bodyId": "PO838901",
       "outcome": null,
       "voteUids": [],
       "textRefs": []
     },
     {
-      "uid": "L17-VD233824S53466",
+      "uid": "L17-VD233824S53575",
       "code": "AN1-DEBATS-SEANCE",
       "label": "Discussion en séance publique",
-      "date": "2026-11-10",
+      "date": "2026-11-04",
       "bodyId": "PO838901",
       "outcome": null,
       "voteUids": [],
       "textRefs": []
     },
     {
-      "uid": "L17-VD233824S53467",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-10",
+      "uid": "L17-VD234747DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-11-04",
       "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53468",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-12",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53469",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-12",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53470",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-12",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53471",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-13",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53472",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-13",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53473",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-13",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53474",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-14",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53475",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-14",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53476",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-14",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53477",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-16",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53478",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-16",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53479",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-16",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD233824S53480",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-17",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
+      "outcome": "rejeté",
+      "voteUids": [
+        "VTANR5L17V9759"
+      ],
+      "textRefs": [
+        "PRJLANR5L17BTA0362"
+      ]
     }
   ],
   "voteUids": [

@@ -217,6 +217,28 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD234732",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-11-04",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3438"
+      ]
+    },
+    {
+      "uid": "L17-AN1-DEBATS-54169",
+      "code": "AN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [],

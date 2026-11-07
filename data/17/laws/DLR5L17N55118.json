@@ -29,6 +29,16 @@
       "textRefs": [
         "PNREANR5L17B3346"
       ]
+    },
+    {
+      "uid": "L17-ANLUNI-DEBATS-55118",
+      "code": "ANLUNI-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [],

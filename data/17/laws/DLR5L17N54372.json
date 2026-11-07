@@ -316,6 +316,80 @@
       "textRefs": [
         "RAPPSNR5S499B0088"
       ]
+    },
+    {
+      "uid": "L17-SN1-DEBATS-54372",
+      "code": "SN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234686S53589",
+      "code": "SN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-03",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234687DEC",
+      "code": "SN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-11-03",
+      "bodyId": "PO78718",
+      "outcome": "modifié",
+      "voteUids": [],
+      "textRefs": [
+        "PRJLSNR5S499BTA0024"
+      ]
+    },
+    {
+      "uid": "L17-CMP-54372",
+      "code": "CMP",
+      "label": "Commission Mixte Paritaire",
+      "date": null,
+      "bodyId": "PO888410",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234756DIN",
+      "code": "CMP-DEPOT",
+      "label": "Dépôt d'un projet de loi",
+      "date": "2026-11-05",
+      "bodyId": "PO888410",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17B3440"
+      ]
+    },
+    {
+      "uid": "L17-VD234759CMPS",
+      "code": "CMP-SAISIE",
+      "label": "Convocation d'une CMP",
+      "date": "2026-11-05",
+      "bodyId": "PO888410",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234759COM",
+      "code": "CMP-COM",
+      "label": "Commission Mixte Paritaire",
+      "date": null,
+      "bodyId": "PO888410",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [

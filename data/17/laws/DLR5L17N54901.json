@@ -126,6 +126,58 @@
         "PIONANR5L17BTA0360",
         "PIONANR5L17TAP0360"
       ]
+    },
+    {
+      "uid": "L17-SN1-54901",
+      "code": "SN1",
+      "label": "1ère lecture (2ème assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234772DIN",
+      "code": "SN1-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2026-10-29",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S499B0127"
+      ]
+    },
+    {
+      "uid": "L17-SN1-COM-54901",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234773CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234773CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-10-29",
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [

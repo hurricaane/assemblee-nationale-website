@@ -153,6 +153,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD231963R38001",
+      "code": "ANLUNI-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-11-25",
+      "bodyId": "PO59047",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-VD233234",
       "code": "ANLUNI-COM-FOND-RAPPORT",
       "label": "Dépôt de rapport",
@@ -169,6 +179,26 @@
       "code": "ANLUNI-DEBATS",
       "label": "Discussion en séance publique",
       "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234658S53537",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-25",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234658S53540",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-25",
       "bodyId": "PO838901",
       "outcome": null,
       "voteUids": [],

@@ -306,6 +306,28 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234480R38009",
+      "code": "AN2-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-11-18",
+      "bodyId": "PO419610",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234715",
+      "code": "AN2-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-11-04",
+      "bodyId": "PO419610",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3432"
+      ]
+    },
+    {
       "uid": "L17-AN2-DEBATS-53069",
       "code": "AN2-DEBATS",
       "label": "Discussion en séance publique",

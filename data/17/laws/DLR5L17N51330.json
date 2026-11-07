@@ -284,6 +284,60 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD234720",
+      "code": "CMP-COM-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-11-04",
+      "bodyId": "PO888016",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234725",
+      "code": "CMP-COM-RAPPORT-AN",
+      "label": "Dépôt du rapport d'une CMP",
+      "date": "2026-11-04",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3435"
+      ]
+    },
+    {
+      "uid": "L17-VD234726",
+      "code": "CMP-COM-RAPPORT-SN",
+      "label": "Dépôt du rapport d'une CMP",
+      "date": "2026-11-04",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S499B0145"
+      ]
+    },
+    {
+      "uid": "L17-CMP-DEBATS-AN-51330",
+      "code": "CMP-DEBATS-AN",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234619DEC",
+      "code": "CMP-DEC",
+      "label": "Décision de la CMP",
+      "date": "2026-11-04",
+      "bodyId": "PO888016",
+      "outcome": "Accord",
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [
