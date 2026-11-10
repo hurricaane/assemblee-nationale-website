@@ -207,6 +207,18 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234804",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-11-09",
+      "bodyId": "PO419610",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3444"
+      ]
+    },
+    {
       "uid": "L17-AN1-DEBATS-51095",
       "code": "AN1-DEBATS",
       "label": "Discussion en séance publique",
