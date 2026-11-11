@@ -31,6 +31,16 @@
       ]
     },
     {
+      "uid": "L17-VD234825",
+      "code": "AN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2026-11-10",
+      "bodyId": "PO873634",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-AN1-COM-55071",
       "code": "AN1-COM",
       "label": "Travaux des commissions",
@@ -61,10 +71,60 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234816",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-11-10",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234811R38037",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-11-10",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234811R38041",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-11-23",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-AN1-DEBATS-55071",
       "code": "AN1-DEBATS",
       "label": "Discussion en séance publique",
       "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234784S53616",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-30",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234784S53617",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-30",
       "bodyId": "PO838901",
       "outcome": null,
       "voteUids": [],

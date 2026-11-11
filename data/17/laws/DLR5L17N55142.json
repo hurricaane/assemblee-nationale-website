@@ -61,6 +61,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234870",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-11-10",
+      "bodyId": "PO419610",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-VD234771R38013",
       "code": "AN1-COM-FOND-REUNION",
       "label": "Réunion de commission",
@@ -75,6 +85,36 @@
       "code": "AN1-DEBATS",
       "label": "Discussion en séance publique",
       "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234787S53626",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-12-03",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234787S53627",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-12-03",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234787S53625",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-12-03",
       "bodyId": "PO838901",
       "outcome": null,
       "voteUids": [],

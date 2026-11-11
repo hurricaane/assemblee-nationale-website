@@ -39,6 +39,36 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD234786S53622",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-12-03",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234786S53623",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-12-03",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234786S53624",
+      "code": "ANLUNI-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-12-03",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [],

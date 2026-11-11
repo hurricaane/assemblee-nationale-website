@@ -177,6 +177,28 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234865",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-11-10",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234871",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-11-10",
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3468"
+      ]
+    },
+    {
       "uid": "L17-AN1-DEBATS-53699",
       "code": "AN1-DEBATS",
       "label": "Discussion en séance publique",

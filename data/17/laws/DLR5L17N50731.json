@@ -307,66 +307,6 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
-    },
-    {
-      "uid": "L17-VD234742S53597",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-12",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD234742S53598",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-12",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD234742S53599",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-12",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD234742S53601",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-13",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD234742S53603",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-13",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD234742S53605",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-13",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
     }
   ],
   "voteUids": [
@@ -403,7 +343,20 @@
     "VTANR5L17V9790",
     "VTANR5L17V9791",
     "VTANR5L17V9792",
-    "VTANR5L17V9793"
+    "VTANR5L17V9793",
+    "VTANR5L17V9794",
+    "VTANR5L17V9795",
+    "VTANR5L17V9796",
+    "VTANR5L17V9797",
+    "VTANR5L17V9798",
+    "VTANR5L17V9799",
+    "VTANR5L17V9800",
+    "VTANR5L17V9801",
+    "VTANR5L17V9802",
+    "VTANR5L17V9803",
+    "VTANR5L17V9804",
+    "VTANR5L17V9805",
+    "VTANR5L17V9806"
   ],
   "promulgation": null,
   "constitutionalCouncil": null

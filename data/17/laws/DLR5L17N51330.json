@@ -330,6 +330,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234796S53568",
+      "code": "CMP-DEBATS-AN-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-12",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-VD234619DEC",
       "code": "CMP-DEC",
       "label": "Décision de la CMP",
