@@ -1,12 +1,12 @@
 {
   "legislature": 17,
-  "updatedAt": "2026-11-12T13:02:15.547Z",
+  "updatedAt": "2026-11-13T12:27:29.237Z",
   "counts": {
-    "votes": 9806,
-    "laws": 3423,
-    "linkedVotes": 4176,
-    "finalVotes": 225,
-    "linkedFinalVotes": 225
+    "votes": 9895,
+    "laws": 3426,
+    "linkedVotes": 4265,
+    "finalVotes": 227,
+    "linkedFinalVotes": 227
   },
   "unresolvedGroupIds": []
 }

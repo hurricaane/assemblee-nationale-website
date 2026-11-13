@@ -61,6 +61,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234885",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-11-12",
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-AN1-DEBATS-55143",
       "code": "AN1-DEBATS",
       "label": "Discussion en séance publique",
