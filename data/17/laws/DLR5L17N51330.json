@@ -346,7 +346,9 @@
       "date": "2026-11-12",
       "bodyId": "PO838901",
       "outcome": "adoptée, dans les conditions prévues à l'article 45, alinéa 3, de la Constitution",
-      "voteUids": [],
+      "voteUids": [
+        "VTANR5L17V9807"
+      ],
       "textRefs": [
         "PIONANR5L17BTA0363",
         "PIONANR5L17TAP0363"

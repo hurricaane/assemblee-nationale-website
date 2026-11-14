@@ -133,6 +133,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD231961R38061",
+      "code": "ANLUNI-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-11-25",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-ANLUNI-DEBATS-54254",
       "code": "ANLUNI-DEBATS",
       "label": "Discussion en séance publique",

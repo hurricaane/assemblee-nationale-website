@@ -127,6 +127,16 @@
       ]
     },
     {
+      "uid": "L17-VD234906",
+      "code": "AN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2026-06-25",
+      "bodyId": "PO873634",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-AN1-COM-54608",
       "code": "AN1-COM",
       "label": "Travaux des commissions",

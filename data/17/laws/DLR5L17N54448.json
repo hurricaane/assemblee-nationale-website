@@ -61,6 +61,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234814R38068",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-11-16",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-VD234814R38044",
       "code": "AN1-COM-FOND-REUNION",
       "label": "Réunion de commission",
