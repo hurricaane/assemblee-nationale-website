@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N55271",
+  "legislature": 17,
+  "title": "Les actes d’agression et de répression commis par la Fédération de Russie",
+  "procedure": {
+    "code": "8",
+    "label": "Résolution"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-55271",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234925DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-11-16",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B3473"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-COM-55271",
+      "code": "ANLUNI-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234926RP",
+      "code": "ANLUNI-COM-CAE",
+      "label": "Renvoi préalable à la CAE",
+      "date": null,
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234926RPS",
+      "code": "ANLUNI-COM-CAE-SAISIE",
+      "label": "Renvoi préalable",
+      "date": "2026-11-16",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

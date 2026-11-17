@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N55272",
+  "legislature": 17,
+  "title": "Interdire toute relation commerciale avec les colonies israéliennes illégales installées dans le Territoire palestinien occupé et sur le plateau du Golan",
+  "procedure": {
+    "code": "8",
+    "label": "Résolution"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-55272",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234930DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-11-17",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B3474"
+      ]
+    },
+    {
+      "uid": "L17-ANLUNI-COM-55272",
+      "code": "ANLUNI-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234931RP",
+      "code": "ANLUNI-COM-CAE",
+      "label": "Renvoi préalable à la CAE",
+      "date": null,
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234931RPS",
+      "code": "ANLUNI-COM-CAE-SAISIE",
+      "label": "Renvoi préalable",
+      "date": "2026-11-17",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

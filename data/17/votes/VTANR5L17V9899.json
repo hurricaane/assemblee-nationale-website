@@ -1,0 +1,163 @@
+{
+  "uid": "VTANR5L17V9899",
+  "number": 9899,
+  "date": "2026-11-16",
+  "title": "le sous-amendement n° 25 de Mme Létard à l'amendement n° 1 (rect.) de Mme Sylvie Bonnet de rétablissement de l'article premier (supprimé) de la proposition de loi visant au renforcement de l'attractivité de l'épargne salariale et à la mise en œuvre d'une procédure de déblocage exceptionnelle (première lecture).",
+  "type": "SPO",
+  "result": "rejeté",
+  "isFinalVote": false,
+  "tally": {
+    "pour": 32,
+    "contre": 45,
+    "abstentions": 9,
+    "nonVotants": 2,
+    "nonVotantsVolontaires": 0
+  },
+  "groups": [
+    {
+      "groupId": "PO840056",
+      "members": 11,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845401",
+      "members": 121,
+      "position": "pour",
+      "tally": {
+        "pour": 25,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845407",
+      "members": 90,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 14,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845413",
+      "members": 70,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 11,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845419",
+      "members": 67,
+      "position": "abstention",
+      "tally": {
+        "pour": 0,
+        "contre": 2,
+        "abstentions": 6,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 6
+      }
+    },
+    {
+      "groupId": "PO845425",
+      "members": 46,
+      "position": "contre",
+      "tally": {
+        "pour": 1,
+        "contre": 5,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    },
+    {
+      "groupId": "PO845439",
+      "members": 39,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 3,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845454",
+      "members": 37,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 8,
+        "abstentions": 0,
+        "nonVotants": 1,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845470",
+      "members": 35,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845485",
+      "members": 24,
+      "position": "pour",
+      "tally": {
+        "pour": 2,
+        "contre": 0,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO845514",
+      "members": 17,
+      "position": "contre",
+      "tally": {
+        "pour": 0,
+        "contre": 1,
+        "abstentions": 0,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 0
+      }
+    },
+    {
+      "groupId": "PO872880",
+      "members": 17,
+      "position": "pour",
+      "tally": {
+        "pour": 4,
+        "contre": 0,
+        "abstentions": 1,
+        "nonVotants": 0,
+        "nonVotantsVolontaires": 1
+      }
+    }
+  ],
+  "lawUid": "DLR5L17N53699"
+}

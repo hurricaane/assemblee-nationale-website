@@ -217,9 +217,35 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD234927DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-11-16",
+      "bodyId": "PO838901",
+      "outcome": "modifiée",
+      "voteUids": [
+        "VTANR5L17V9905"
+      ],
+      "textRefs": [
+        "PIONANR5L17BTA0365",
+        "PIONANR5L17TAP0365"
+      ]
     }
   ],
-  "voteUids": [],
+  "voteUids": [
+    "VTANR5L17V9896",
+    "VTANR5L17V9897",
+    "VTANR5L17V9898",
+    "VTANR5L17V9899",
+    "VTANR5L17V9900",
+    "VTANR5L17V9901",
+    "VTANR5L17V9902",
+    "VTANR5L17V9903",
+    "VTANR5L17V9904",
+    "VTANR5L17V9905"
+  ],
   "promulgation": null,
   "constitutionalCouncil": null
 }

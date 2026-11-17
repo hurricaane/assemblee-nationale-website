@@ -399,7 +399,18 @@
       "textRefs": []
     }
   ],
-  "voteUids": [],
+  "voteUids": [
+    "VTANR5L17V9906",
+    "VTANR5L17V9907",
+    "VTANR5L17V9908",
+    "VTANR5L17V9909",
+    "VTANR5L17V9910",
+    "VTANR5L17V9911",
+    "VTANR5L17V9912",
+    "VTANR5L17V9913",
+    "VTANR5L17V9914",
+    "VTANR5L17V9915"
+  ],
   "promulgation": null,
   "constitutionalCouncil": null
 }
