@@ -307,6 +307,29 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD234742S53670",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-11-17",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234948DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-11-17",
+      "bodyId": "PO838901",
+      "outcome": "modifié",
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17BTA0366",
+        "PRJLANR5L17TAP0366"
+      ]
     }
   ],
   "voteUids": [
@@ -356,7 +379,8 @@
     "VTANR5L17V9803",
     "VTANR5L17V9804",
     "VTANR5L17V9805",
-    "VTANR5L17V9806"
+    "VTANR5L17V9806",
+    "VTANR5L17V9916"
   ],
   "promulgation": null,
   "constitutionalCouncil": null
