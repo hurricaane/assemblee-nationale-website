@@ -61,6 +61,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234973",
+      "code": "AN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-11-18",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-VD234946R38088",
       "code": "AN1-COM-FOND-REUNION",
       "label": "Réunion de commission",
