@@ -368,14 +368,17 @@
       "textRefs": []
     },
     {
-      "uid": "L17-VD234502S53516",
-      "code": "AN2-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
+      "uid": "L17-VD235055DEC",
+      "code": "AN2-DEBATS-DEC",
+      "label": "Décision",
       "date": "2026-11-19",
       "bodyId": "PO838901",
-      "outcome": null,
+      "outcome": "adoptée sans modification",
       "voteUids": [],
-      "textRefs": []
+      "textRefs": [
+        "PIONANR5L17BTA0368",
+        "PIONANR5L17TAP0368"
+      ]
     }
   ],
   "voteUids": [
@@ -390,6 +393,35 @@
     "VTANR5L17V10030",
     "VTANR5L17V10031",
     "VTANR5L17V10032",
+    "VTANR5L17V10034",
+    "VTANR5L17V10035",
+    "VTANR5L17V10036",
+    "VTANR5L17V10037",
+    "VTANR5L17V10038",
+    "VTANR5L17V10039",
+    "VTANR5L17V10040",
+    "VTANR5L17V10041",
+    "VTANR5L17V10042",
+    "VTANR5L17V10043",
+    "VTANR5L17V10044",
+    "VTANR5L17V10045",
+    "VTANR5L17V10046",
+    "VTANR5L17V10047",
+    "VTANR5L17V10048",
+    "VTANR5L17V10049",
+    "VTANR5L17V10050",
+    "VTANR5L17V10051",
+    "VTANR5L17V10052",
+    "VTANR5L17V10053",
+    "VTANR5L17V10054",
+    "VTANR5L17V10055",
+    "VTANR5L17V10056",
+    "VTANR5L17V10057",
+    "VTANR5L17V10058",
+    "VTANR5L17V10059",
+    "VTANR5L17V10060",
+    "VTANR5L17V10061",
+    "VTANR5L17V10062",
     "VTANR5L17V4745"
   ],
   "promulgation": null,

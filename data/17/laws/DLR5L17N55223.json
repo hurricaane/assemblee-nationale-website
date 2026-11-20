@@ -251,6 +251,48 @@
       "textRefs": [
         "PRJLSNR5S499BTA0034"
       ]
+    },
+    {
+      "uid": "L17-CMP-55223",
+      "code": "CMP",
+      "label": "Commission Mixte Paritaire",
+      "date": null,
+      "bodyId": "PO889030",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234993DIN",
+      "code": "CMP-DEPOT",
+      "label": "Dépôt d'un projet de loi",
+      "date": "2026-11-19",
+      "bodyId": "PO889030",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17B3486"
+      ]
+    },
+    {
+      "uid": "L17-VD234995CMPS",
+      "code": "CMP-SAISIE",
+      "label": "Convocation d'une CMP",
+      "date": "2026-11-19",
+      "bodyId": "PO889030",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234995COM",
+      "code": "CMP-COM",
+      "label": "Commission Mixte Paritaire",
+      "date": null,
+      "bodyId": "PO889030",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [

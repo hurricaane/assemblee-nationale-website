@@ -79,6 +79,38 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD234992",
+      "code": "ANLUNI-COM-CAE-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-11-19",
+      "bodyId": "PO415287",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3485"
+      ]
+    },
+    {
+      "uid": "L17-VD234991CF",
+      "code": "ANLUNI-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234991CFS",
+      "code": "ANLUNI-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-11-19",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [],

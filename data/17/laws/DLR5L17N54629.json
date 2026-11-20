@@ -1501,6 +1501,28 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD235002",
+      "code": "SN1-COM-FOND-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": null,
+      "bodyId": "PO211494",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235051",
+      "code": "SN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-11-19",
+      "bodyId": "PO211494",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S499B0156"
+      ]
     }
   ],
   "voteUids": [

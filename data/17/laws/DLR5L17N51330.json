@@ -355,6 +355,28 @@
       ]
     },
     {
+      "uid": "L17-CMP-DEBATS-SN-51330",
+      "code": "CMP-DEBATS-SN",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234997DEC",
+      "code": "CMP-DEBATS-SN-DEC",
+      "label": "Décision",
+      "date": "2026-11-19",
+      "bodyId": "PO78718",
+      "outcome": "adoptée, dans les conditions prévues à l'article 45, alinéa 3, de la Constitution",
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S499BTA0036"
+      ]
+    },
+    {
       "uid": "L17-VD234619DEC",
       "code": "CMP-DEC",
       "label": "Décision de la CMP",

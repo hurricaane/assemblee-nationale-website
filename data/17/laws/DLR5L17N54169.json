@@ -249,6 +249,18 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD235060DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-11-20",
+      "bodyId": "PO838901",
+      "outcome": "adopté sans modification",
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17BTA0371"
+      ]
     }
   ],
   "voteUids": [],
