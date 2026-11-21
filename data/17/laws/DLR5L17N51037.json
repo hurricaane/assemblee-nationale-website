@@ -240,6 +240,28 @@
       "textRefs": [
         "RAPPSNR5S499B0167"
       ]
+    },
+    {
+      "uid": "L17-SN1-DEBATS-51037",
+      "code": "SN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235077DEC",
+      "code": "SN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-11-20",
+      "bodyId": "PO78718",
+      "outcome": "modifiée",
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S499BTA0038"
+      ]
     }
   ],
   "voteUids": [

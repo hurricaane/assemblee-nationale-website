@@ -255,14 +255,18 @@
       "date": "2026-11-19",
       "bodyId": "PO838901",
       "outcome": "adoptée sans modification",
-      "voteUids": [],
+      "voteUids": [
+        "VTANR5L17V10080"
+      ],
       "textRefs": [
         "PIONANR5L17BTA0369",
         "PIONANR5L17TAP0369"
       ]
     }
   ],
-  "voteUids": [],
+  "voteUids": [
+    "VTANR5L17V10080"
+  ],
   "promulgation": null,
   "constitutionalCouncil": null
 }
