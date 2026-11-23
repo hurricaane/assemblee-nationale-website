@@ -157,7 +157,27 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD235052R38107",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-11-24",
+      "bodyId": "PO419865",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-VD235052R38095",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-12-01",
+      "bodyId": "PO419865",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235052R38109",
       "code": "AN1-COM-FOND-REUNION",
       "label": "Réunion de commission",
       "date": "2026-12-01",
