@@ -1,0 +1,77 @@
+{
+  "uid": "DLR5L17N55285",
+  "legislature": 17,
+  "title": "Projet de loi visant à renforcer l’investissement publicitaire dans les services de presse en ligne d’information politique et générale",
+  "procedure": {
+    "code": "1",
+    "label": "Projet de loi ordinaire"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L17-SN1-55285",
+      "code": "SN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235084DI",
+      "code": "SN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-11-10",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLSNR5S499B0165"
+      ]
+    },
+    {
+      "uid": "L17-VD235086",
+      "code": "SN1-PROCACC",
+      "label": "Le gouvernement déclare l'urgence / engage la procédure accélérée",
+      "date": "2026-11-10",
+      "bodyId": "PO873634",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-SN1-COM-55285",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235085CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235085CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-11-10",
+      "bodyId": "PO211490",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

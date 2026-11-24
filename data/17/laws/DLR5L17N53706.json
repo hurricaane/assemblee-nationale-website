@@ -219,6 +219,16 @@
       "textRefs": [
         "RAPPANR5L17B2870"
       ]
+    },
+    {
+      "uid": "L17-AN1-DEBATS-53706",
+      "code": "AN1-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [],

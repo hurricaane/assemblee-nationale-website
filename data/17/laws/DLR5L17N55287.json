@@ -1,0 +1,37 @@
+{
+  "uid": "DLR5L17N55287",
+  "legislature": 17,
+  "title": "Reconnaître le deuil périnatal et garantir aux familles endeuillées un accompagnement digne sur l’ensemble du territoire",
+  "procedure": {
+    "code": "22",
+    "label": "Résolution Article 34-1"
+  },
+  "kind": "other",
+  "acts": [
+    {
+      "uid": "L17-ANLUNI-55287",
+      "code": "ANLUNI",
+      "label": "Lecture unique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235089DI",
+      "code": "ANLUNI-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-11-23",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PNREANR5L17B3493"
+      ]
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}
