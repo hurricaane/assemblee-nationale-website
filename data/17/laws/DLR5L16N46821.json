@@ -229,6 +229,18 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD235107",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-11-24",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3497"
+      ]
+    },
+    {
       "uid": "L17-AN1-DEBATS-46821",
       "code": "AN1-DEBATS",
       "label": "Discussion en séance publique",
@@ -273,6 +285,36 @@
       "code": "AN1-DEBATS-SEANCE",
       "label": "Discussion en séance publique",
       "date": "2026-12-02",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234823S53806",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-12-04",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234823S53812",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-12-04",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD234823S53818",
+      "code": "AN1-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-12-04",
       "bodyId": "PO838901",
       "outcome": null,
       "voteUids": [],

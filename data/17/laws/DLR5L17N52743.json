@@ -264,21 +264,21 @@
       ]
     },
     {
-      "uid": "L17-AN2-52743",
-      "code": "AN2",
-      "label": "deuxième lecture",
+      "uid": "L17-CMP-52743",
+      "code": "CMP",
+      "label": "Commission Mixte Paritaire",
       "date": null,
-      "bodyId": "PO838901",
+      "bodyId": "PO889173",
       "outcome": null,
       "voteUids": [],
       "textRefs": []
     },
     {
       "uid": "L17-VD234439DIN",
-      "code": "AN2-DEPOT",
-      "label": "Dépôt d'une initiative en navette",
+      "code": "CMP-DEPOT",
+      "label": "Dépôt d'un projet de loi",
       "date": "2026-10-21",
-      "bodyId": "PO838901",
+      "bodyId": "PO889173",
       "outcome": null,
       "voteUids": [],
       "textRefs": [
@@ -286,31 +286,21 @@
       ]
     },
     {
-      "uid": "L17-AN2-COM-52743",
-      "code": "AN2-COM",
-      "label": "Travaux des commissions",
-      "date": null,
-      "bodyId": "PO838901",
+      "uid": "L17-VD235104CMPS",
+      "code": "CMP-SAISIE",
+      "label": "Convocation d'une CMP",
+      "date": "2026-11-24",
+      "bodyId": "PO889173",
       "outcome": null,
       "voteUids": [],
       "textRefs": []
     },
     {
-      "uid": "L17-VD234440CF",
-      "code": "AN2-COM-FOND",
-      "label": "Travaux de la commission saisie au fond",
+      "uid": "L17-VD235104COM",
+      "code": "CMP-COM",
+      "label": "Commission Mixte Paritaire",
       "date": null,
-      "bodyId": "PO59051",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD234440CFS",
-      "code": "AN2-COM-FOND-SAISIE",
-      "label": "Renvoi en commission au fond",
-      "date": "2026-10-21",
-      "bodyId": "PO59051",
+      "bodyId": "PO889173",
       "outcome": null,
       "voteUids": [],
       "textRefs": []

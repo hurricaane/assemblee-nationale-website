@@ -377,6 +377,21 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD235105DEC",
+      "code": "AN1-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-11-24",
+      "bodyId": "PO838901",
+      "outcome": "modifié",
+      "voteUids": [
+        "VTANR5L17V10102"
+      ],
+      "textRefs": [
+        "PRJLANR5L17BTA0372",
+        "PRJLANR5L17TAP0372"
+      ]
     }
   ],
   "voteUids": [
@@ -423,6 +438,7 @@
     "VTANR5L17V10099",
     "VTANR5L17V10100",
     "VTANR5L17V10101",
+    "VTANR5L17V10102",
     "VTANR5L17V9906",
     "VTANR5L17V9907",
     "VTANR5L17V9908",

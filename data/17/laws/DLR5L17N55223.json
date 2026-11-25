@@ -329,6 +329,28 @@
       ]
     },
     {
+      "uid": "L17-CMP-DEBATS-SN-55223",
+      "code": "CMP-DEBATS-SN",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235109DEC",
+      "code": "CMP-DEBATS-SN-DEC",
+      "label": "Décision",
+      "date": "2026-11-24",
+      "bodyId": "PO78718",
+      "outcome": "adopté, dans les conditions prévues à l'article 45, alinéa 3, de la Constitution",
+      "voteUids": [],
+      "textRefs": [
+        "PRJLSNR5S499BTA0039"
+      ]
+    },
+    {
       "uid": "L17-CMP-DEBATS-AN-55223",
       "code": "CMP-DEBATS-AN",
       "label": "Discussion en séance publique",
@@ -349,14 +371,19 @@
       "textRefs": []
     },
     {
-      "uid": "L17-VD235094S53770",
-      "code": "CMP-DEBATS-AN-SEANCE",
-      "label": "Discussion en séance publique",
+      "uid": "L17-VD235159DEC",
+      "code": "CMP-DEBATS-AN-DEC",
+      "label": "Décision",
       "date": "2026-11-24",
       "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
+      "outcome": "adopté, dans les conditions prévues à l'article 45, alinéa 3, de la Constitution",
+      "voteUids": [
+        "VTANR5L17V10106"
+      ],
+      "textRefs": [
+        "PRJLANR5L17BTA0373",
+        "PRJLANR5L17TAP0373"
+      ]
     },
     {
       "uid": "L17-VD234995DEC",
@@ -370,6 +397,10 @@
     }
   ],
   "voteUids": [
+    "VTANR5L17V10103",
+    "VTANR5L17V10104",
+    "VTANR5L17V10105",
+    "VTANR5L17V10106",
     "VTANR5L17V9808",
     "VTANR5L17V9809",
     "VTANR5L17V9810",
