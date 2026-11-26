@@ -203,9 +203,32 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD235184DEC",
+      "code": "ANLUNI-DEBATS-DEC",
+      "label": "Décision",
+      "date": "2026-11-25",
+      "bodyId": "PO838901",
+      "outcome": "adoptée",
+      "voteUids": [
+        "VTANR5L17V10116"
+      ],
+      "textRefs": [
+        "RIONANR5L17BTA0376",
+        "RIONANR5L17TAP0376"
+      ]
     }
   ],
-  "voteUids": [],
+  "voteUids": [
+    "VTANR5L17V10110",
+    "VTANR5L17V10111",
+    "VTANR5L17V10112",
+    "VTANR5L17V10113",
+    "VTANR5L17V10114",
+    "VTANR5L17V10115",
+    "VTANR5L17V10116"
+  ],
   "promulgation": null,
   "constitutionalCouncil": null
 }

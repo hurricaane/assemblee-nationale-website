@@ -207,6 +207,26 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD235175",
+      "code": "AN1-COM-AVIS-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-11-25",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD231544R38116",
+      "code": "AN1-COM-AVIS-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-11-25",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-VD231592CA",
       "code": "AN1-COM-AVIS",
       "label": "Travaux d'une commission saisie pour avis",
@@ -241,46 +261,6 @@
       "code": "AN1-COM-AVIS-REUNION",
       "label": "Réunion de commission",
       "date": "2026-05-20",
-      "bodyId": "PO419865",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD231544R38098",
-      "code": "AN1-COM-AVIS-REUNION",
-      "label": "Réunion de commission",
-      "date": "2026-12-14",
-      "bodyId": "PO419865",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD231544R38099",
-      "code": "AN1-COM-AVIS-REUNION",
-      "label": "Réunion de commission",
-      "date": "2026-12-14",
-      "bodyId": "PO419865",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD231544R38100",
-      "code": "AN1-COM-AVIS-REUNION",
-      "label": "Réunion de commission",
-      "date": "2026-12-15",
-      "bodyId": "PO419865",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD231544R38101",
-      "code": "AN1-COM-AVIS-REUNION",
-      "label": "Réunion de commission",
-      "date": "2026-12-15",
       "bodyId": "PO419865",
       "outcome": null,
       "voteUids": [],
@@ -341,6 +321,16 @@
       "code": "AN1-COM-AVIS-SAISIE",
       "label": "Saisine pour avis d'une commission",
       "date": "2026-04-23",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235165",
+      "code": "AN1-COM-AVIS-NOMIN",
+      "label": "Nomination de rapporteur",
+      "date": "2026-11-25",
       "bodyId": "PO419604",
       "outcome": null,
       "voteUids": [],

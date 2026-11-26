@@ -262,6 +262,36 @@
       "textRefs": [
         "PIONSNR5S499BTA0038"
       ]
+    },
+    {
+      "uid": "L17-CC-51037",
+      "code": "CC",
+      "label": "Conseil constitutionnel",
+      "date": null,
+      "bodyId": "PO76034",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235172CCS4427",
+      "code": "CC-SAISIE-AN",
+      "label": "Saisine du conseil constitutionnel",
+      "date": "2026-11-25",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235172CCS4428",
+      "code": "CC-SAISIE-AN",
+      "label": "Saisine du conseil constitutionnel",
+      "date": "2026-11-25",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [

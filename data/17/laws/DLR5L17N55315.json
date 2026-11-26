@@ -1,0 +1,67 @@
+{
+  "uid": "DLR5L17N55315",
+  "legislature": 17,
+  "title": "Proposition de loi visant à reconnaître les acquis de l'expérience des chirurgiens-dentistes dans la pratique des soins orthodontiques",
+  "procedure": {
+    "code": "2",
+    "label": "Proposition de loi ordinaire"
+  },
+  "kind": "law",
+  "acts": [
+    {
+      "uid": "L17-SN1-55315",
+      "code": "SN1",
+      "label": "1ère lecture (1ère assemblée saisie)",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235181DI",
+      "code": "SN1-DEPOT",
+      "label": "1er dépôt d'une initiative.",
+      "date": "2026-11-24",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONSNR5S499B0188"
+      ]
+    },
+    {
+      "uid": "L17-SN1-COM-55315",
+      "code": "SN1-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235182CF",
+      "code": "SN1-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO211493",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235182CFS",
+      "code": "SN1-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-11-24",
+      "bodyId": "PO211493",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    }
+  ],
+  "voteUids": [],
+  "promulgation": null,
+  "constitutionalCouncil": null
+}

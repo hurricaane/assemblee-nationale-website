@@ -163,17 +163,24 @@
       "textRefs": []
     },
     {
-      "uid": "L17-VD234657S53539",
-      "code": "ANLUNI-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
+      "uid": "L17-VD235183DEC",
+      "code": "ANLUNI-DEBATS-DEC",
+      "label": "Décision",
       "date": "2026-11-25",
       "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
+      "outcome": "adoptée",
+      "voteUids": [
+        "VTANR5L17V10109"
+      ],
+      "textRefs": [
+        "RIONANR5L17BTA0375"
+      ]
     }
   ],
-  "voteUids": [],
+  "voteUids": [
+    "VTANR5L17V10108",
+    "VTANR5L17V10109"
+  ],
   "promulgation": null,
   "constitutionalCouncil": null
 }

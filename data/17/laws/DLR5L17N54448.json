@@ -81,7 +81,7 @@
       "textRefs": []
     },
     {
-      "uid": "L17-VD234814R38044",
+      "uid": "L17-VD234814R38115",
       "code": "AN1-COM-FOND-REUNION",
       "label": "Réunion de commission",
       "date": "2026-11-25",
@@ -89,6 +89,18 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD235164",
+      "code": "AN1-COM-FOND-RAPPORT",
+      "label": "Dépôt de rapport",
+      "date": "2026-11-25",
+      "bodyId": "PO59051",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3526"
+      ]
     },
     {
       "uid": "L17-AN1-DEBATS-54448",

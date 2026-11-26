@@ -1,10 +1,10 @@
 {
   "legislature": 17,
-  "updatedAt": "2026-11-25T14:44:32.154Z",
+  "updatedAt": "2026-11-26T14:08:45.048Z",
   "counts": {
-    "votes": 10106,
-    "laws": 3467,
-    "linkedVotes": 4476,
+    "votes": 10116,
+    "laws": 3469,
+    "linkedVotes": 4486,
     "finalVotes": 234,
     "linkedFinalVotes": 234
   },
