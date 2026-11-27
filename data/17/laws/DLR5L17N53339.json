@@ -133,7 +133,10 @@
       "textRefs": []
     }
   ],
-  "voteUids": [],
+  "voteUids": [
+    "VTANR5L17V10174",
+    "VTANR5L17V10175"
+  ],
   "promulgation": null,
   "constitutionalCouncil": null
 }

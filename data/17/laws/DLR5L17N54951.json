@@ -376,18 +376,6 @@
       "textRefs": []
     },
     {
-      "uid": "L17-VD235061DIN",
-      "code": "CMP-DEPOT",
-      "label": "Dépôt d'un projet de loi",
-      "date": "2026-11-20",
-      "bodyId": "PO889079",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": [
-        "PRJLANR5L17B3488"
-      ]
-    },
-    {
       "uid": "L17-VD235064CMPS",
       "code": "CMP-SAISIE",
       "label": "Convocation d'une CMP",
@@ -413,6 +401,92 @@
       "label": "Nomination de rapporteur",
       "date": "2026-11-26",
       "bodyId": "PO889079",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235191",
+      "code": "CMP-COM-RAPPORT-SN",
+      "label": "Dépôt du rapport d'une CMP",
+      "date": "2026-11-26",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPSNR5S499B0194"
+      ]
+    },
+    {
+      "uid": "L17-VD235196",
+      "code": "CMP-COM-RAPPORT-AN",
+      "label": "Dépôt du rapport d'une CMP",
+      "date": "2026-11-26",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "RAPPANR5L17B3537"
+      ]
+    },
+    {
+      "uid": "L17-VD235064DEC",
+      "code": "CMP-DEC",
+      "label": "Décision de la CMP",
+      "date": "2026-11-26",
+      "bodyId": "PO889079",
+      "outcome": "Désaccord",
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-ANNLEC-54951",
+      "code": "ANNLEC",
+      "label": "Nouvelle Lecture",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235061DIN",
+      "code": "ANNLEC-DEPOT",
+      "label": "Dépôt d'une initiative en navette",
+      "date": "2026-11-20",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PRJLANR5L17B3488"
+      ]
+    },
+    {
+      "uid": "L17-ANNLEC-COM-54951",
+      "code": "ANNLEC-COM",
+      "label": "Travaux des commissions",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235062CF",
+      "code": "ANNLEC-COM-FOND",
+      "label": "Travaux de la commission saisie au fond",
+      "date": null,
+      "bodyId": "PO420120",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235062CFS",
+      "code": "ANNLEC-COM-FOND-SAISIE",
+      "label": "Renvoi en commission au fond",
+      "date": "2026-11-20",
+      "bodyId": "PO420120",
       "outcome": null,
       "voteUids": [],
       "textRefs": []

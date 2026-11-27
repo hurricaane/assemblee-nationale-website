@@ -81,6 +81,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD234903R38125",
+      "code": "AN1-COM-FOND-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-12-02",
+      "bodyId": "PO419604",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-VD235163",
       "code": "AN1-COM-FOND-RAPPORT",
       "label": "Dépôt de rapport",
