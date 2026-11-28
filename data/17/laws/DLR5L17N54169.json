@@ -261,9 +261,33 @@
       "textRefs": [
         "PRJLANR5L17BTA0371"
       ]
+    },
+    {
+      "uid": "L17-PROM-54169",
+      "code": "PROM",
+      "label": "Promulgation de la loi",
+      "date": null,
+      "bodyId": "PO717136",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235204PL",
+      "code": "PROM-PUB",
+      "label": "Promulgation d'une loi",
+      "date": "2026-11-26",
+      "bodyId": "PO717136",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [],
-  "promulgation": null,
+  "promulgation": {
+    "lawNumber": "2026-1085",
+    "date": "2026-11-26",
+    "legifranceUrl": "http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=EAEJ2508686L"
+  },
   "constitutionalCouncil": null
 }

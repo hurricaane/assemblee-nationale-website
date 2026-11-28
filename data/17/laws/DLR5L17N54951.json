@@ -490,6 +490,26 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-ANNLEC-DEBATS-54951",
+      "code": "ANNLEC-DEBATS",
+      "label": "Discussion en séance publique",
+      "date": null,
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235222S53720",
+      "code": "ANNLEC-DEBATS-SEANCE",
+      "label": "Discussion en séance publique",
+      "date": "2026-12-08",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [

@@ -385,6 +385,26 @@
       "outcome": "Accord",
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-PROM-51330",
+      "code": "PROM",
+      "label": "Promulgation de la loi",
+      "date": null,
+      "bodyId": "PO717136",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
+      "uid": "L17-VD235205PL",
+      "code": "PROM-PUB",
+      "label": "Promulgation d'une loi",
+      "date": "2026-11-26",
+      "bodyId": "PO717136",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [
@@ -392,6 +412,10 @@
     "VTANR5L17V5831",
     "VTANR5L17V9807"
   ],
-  "promulgation": null,
+  "promulgation": {
+    "lawNumber": "2026-1086",
+    "date": "2026-11-26",
+    "legifranceUrl": "http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=MICX2608446L"
+  },
   "constitutionalCouncil": null
 }

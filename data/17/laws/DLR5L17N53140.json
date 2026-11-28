@@ -357,6 +357,16 @@
       "textRefs": []
     },
     {
+      "uid": "L17-VD231544R38145",
+      "code": "AN1-COM-AVIS-REUNION",
+      "label": "Réunion de commission",
+      "date": "2026-12-09",
+      "bodyId": "PO59048",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
+    },
+    {
       "uid": "L17-VD231594CA",
       "code": "AN1-COM-AVIS",
       "label": "Travaux d'une commission saisie pour avis",

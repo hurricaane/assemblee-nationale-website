@@ -113,26 +113,6 @@
       "textRefs": []
     },
     {
-      "uid": "L17-VD234648S53542",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-26",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
-      "uid": "L17-VD234648S53551",
-      "code": "AN1-DEBATS-SEANCE",
-      "label": "Discussion en séance publique",
-      "date": "2026-11-26",
-      "bodyId": "PO838901",
-      "outcome": null,
-      "voteUids": [],
-      "textRefs": []
-    },
-    {
       "uid": "L17-VD234648S53560",
       "code": "AN1-DEBATS-SEANCE",
       "label": "Discussion en séance publique",
@@ -141,6 +121,18 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD235206",
+      "code": "AN1-RTRINI",
+      "label": "Retrait d'une initiative",
+      "date": "2026-11-27",
+      "bodyId": "PO838901",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": [
+        "PIONANR5L17B3335"
+      ]
     }
   ],
   "voteUids": [],

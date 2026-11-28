@@ -292,6 +292,16 @@
       "outcome": null,
       "voteUids": [],
       "textRefs": []
+    },
+    {
+      "uid": "L17-VD235172CCS4429",
+      "code": "CC-SAISIE-SN",
+      "label": "Saisine du conseil constitutionnel",
+      "date": "2026-11-27",
+      "bodyId": "PO78718",
+      "outcome": null,
+      "voteUids": [],
+      "textRefs": []
     }
   ],
   "voteUids": [
